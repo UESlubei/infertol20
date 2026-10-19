@@ -1,0 +1,38 @@
+[
+  {
+    "length": 3072,
+    "cached": 768,
+    "batch": 1,
+    "ms": 152.94803168997169,
+    "predicted_ms": 173.42510831728578,
+    "absolute_error_ms": 20.47707662731409,
+    "relative_error": 0.13388257698419737
+  },
+  {
+    "length": 3072,
+    "cached": 1536,
+    "batch": 1,
+    "ms": 106.43273489177227,
+    "predicted_ms": 107.44164285063744,
+    "absolute_error_ms": 1.0089079588651657,
+    "relative_error": 0.009479301268459266
+  },
+  {
+    "length": 5120,
+    "cached": 1280,
+    "batch": 1,
+    "ms": 269.559856697917,
+    "predicted_ms": 242.0729137538001,
+    "absolute_error_ms": 27.48694294411689,
+    "relative_error": 0.10196971938191898
+  },
+  {
+    "length": 5120,
+    "cached": 2560,
+    "batch": 1,
+    "ms": 194.15070501714945,
+    "predicted_ms": 167.5703391758725,
+    "absolute_error_ms": 26.580365841276944,
+    "relative_error": 0.1369058424945152
+  }
+]

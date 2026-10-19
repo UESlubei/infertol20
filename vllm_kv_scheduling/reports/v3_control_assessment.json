@@ -1,0 +1,14 @@
+[
+  {
+    "group": "E-G5",
+    "throughput_delta_percent": -0.002899476559955373,
+    "ttft_p95_delta_percent": -0.2975246262378469,
+    "development_3percent_target_met": true
+  },
+  {
+    "group": "F-G5",
+    "throughput_delta_percent": -0.3225761485641058,
+    "ttft_p95_delta_percent": 0.11848461263603588,
+    "development_3percent_target_met": true
+  }
+]

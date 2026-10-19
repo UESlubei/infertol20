@@ -1,0 +1,79 @@
+{
+  "schema": 1,
+  "archive": "vllm-kv-offline-linux-x86_64-20261019.tar",
+  "bytes": 14232545280,
+  "sha256": "4e22a854f9f4f2d14c3bb1740a2e7d9bf61f82f8c4b53f4f93d341c24f5ddbeb",
+  "part_bytes": 1073741824,
+  "parts": [
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-000",
+      "bytes": 1073741824,
+      "sha256": "0421a32b58f40475bf20a9f4c41251a28bb8f80327567913d8199d1721ca4ab7"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-001",
+      "bytes": 1073741824,
+      "sha256": "3e9ebcf6a7e11b425d3611d9a616f026e0a48d84d7cd9378be1b9abec48b2e81"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-002",
+      "bytes": 1073741824,
+      "sha256": "f077fe55484d7696cf0046b5d03ab46dbb065d70fd72119fd6a2747266147b15"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-003",
+      "bytes": 1073741824,
+      "sha256": "b5adf5985e010f409d4e8e2bae8c552de84a0a4dbe39fbeec36e6be94c75f997"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-004",
+      "bytes": 1073741824,
+      "sha256": "306da0bf8608d339aa9c7a1e9824c3fc42fbbd70a6709a019e0fec8c5f9bd840"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-005",
+      "bytes": 1073741824,
+      "sha256": "ba521bd30d428fa29578ce9832ac47618a1da3ca680265c25f4fc9c0c6f03dc2"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-006",
+      "bytes": 1073741824,
+      "sha256": "6dbb93940d97d510ac7089ef927e0640df4b889655702d119e601c74dbefdfa6"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-007",
+      "bytes": 1073741824,
+      "sha256": "d2db1c6a39ba845b842dd9734248f9d2d603af904863e85f683e396c3386da38"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-008",
+      "bytes": 1073741824,
+      "sha256": "d5efea42bba3331ae1823a058dc352fbbdc3c9401ad6bc05aaf19264ce524f4e"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-009",
+      "bytes": 1073741824,
+      "sha256": "c4fde453ccfbc79cda584e5adb26db6c6412150208b15bcbada09513f06d1f36"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-010",
+      "bytes": 1073741824,
+      "sha256": "4c3b0d43030727a57357f390ae5777b883ed750e5c5be91253d72b3b5c5601fe"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-011",
+      "bytes": 1073741824,
+      "sha256": "8d9525e6fe9a6aadef7b4e1f64882493fc6503520619c81591b6452ec55a0cba"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-012",
+      "bytes": 1073741824,
+      "sha256": "abcac74469e3152da6a7e1948ea707367bd80e98b2811d08c8dd35df3a211594"
+    },
+    {
+      "name": "vllm-kv-offline-linux-x86_64-20261019.tar.part-013",
+      "bytes": 273901568,
+      "sha256": "5fda7df10de1721406d6bcce0942311a1a0f58791dd813f8df51df4cb6114269"
+    }
+  ]
+}

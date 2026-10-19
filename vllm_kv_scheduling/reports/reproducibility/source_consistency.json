@@ -1,0 +1,15 @@
+{
+  "checked_manifests": [
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/formal/cpu/manifest.json",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/manifest.json",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/cpu/manifest.json"
+  ],
+  "project_sha256": {
+    "kv_sched/__init__.py": "f6867a213479727d5e9be021798fd554b62c19ed4f40ec6d6887562e6ad7f98d",
+    "kv_sched/policy.py": "9eff397cb9601f0cb9172d2802197467e12ac4bc9b70e6554933e247d9e51440",
+    "kv_sched/runtime.py": "2f2c3198bd0c2af401113b31c3d8fda84b37a4867b6928601e2daa5184e30eec",
+    "benchmarks/run_trace.py": "7c1c7dccbfdce295a58c2775772c56f27c3c5639b1540d5413bcebdee88ec9f0"
+  },
+  "cost_model_sha256": "5d47c70ab84b84a8ce724bdf1826cfcdc407ca24b393334cc84696e86dfeed73",
+  "passed": true
+}

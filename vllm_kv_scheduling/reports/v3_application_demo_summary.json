@@ -1,0 +1,20 @@
+[
+  {
+    "mode": "baseline",
+    "completed": 32,
+    "fact_checks": 20,
+    "fact_checks_total": 24,
+    "cpu_loaded_tokens": 67584,
+    "actual_generated_history": true,
+    "paired_performance": false
+  },
+  {
+    "mode": "combined",
+    "completed": 32,
+    "fact_checks": 20,
+    "fact_checks_total": 24,
+    "cpu_loaded_tokens": 66912,
+    "actual_generated_history": true,
+    "paired_performance": false
+  }
+]

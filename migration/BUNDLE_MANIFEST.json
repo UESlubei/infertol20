@@ -1,0 +1,35 @@
+{
+  "created_utc": "2026-10-19T04:03:08.183773+00:00",
+  "origin_release": "bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+  "platform": "Linux x86_64",
+  "python": "3.11.16",
+  "vllm": "0.11.2",
+  "torch": "2.9.0+cu128",
+  "cuda_toolkit": "12.8",
+  "model": "Qwen/Qwen3-1.7B",
+  "model_revision": "70d244cc86ccca08cf5af4e1e306ecf908b1ad5e",
+  "source_driver": "570.86.15",
+  "source_glibc": "2.31",
+  "nsight_systems": "2024.6.2",
+  "packaged": [
+    "native conda environment",
+    "experiment venv overlay",
+    "stock/optimized vLLM overlays",
+    "model weights and tokenizer (materialized)",
+    "CUDA Toolkit",
+    "Nsight Systems",
+    "separate Python 3.12 plotting runtime",
+    "source, patches, cost calibration, manifests"
+  ],
+  "host_requirements": [
+    "Linux x86_64 with glibc >= 2.31",
+    "compatible NVIDIA driver",
+    "Ampere-or-newer GPU for the configured attention path",
+    "GCC/cc and normal Linux development headers for Triton JIT",
+    "bash, tar, gzip, sha256sum"
+  ],
+  "calibration": "Bundled cost table was measured on RTX 3090; recalibrate on a different GPU.",
+  "fresh_target_runs": true,
+  "source_raw_results_included": false,
+  "downloads_used": false
+}

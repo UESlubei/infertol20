@@ -1,0 +1,2892 @@
+{
+  "decision_steps": 599,
+  "decisions_identical": true,
+  "positions": 320,
+  "mean_kl": 0.0,
+  "max_kl": 0.0,
+  "max_probability_delta": 0.0,
+  "non_near_tie_top1_changes": 0,
+  "rows": [
+    {
+      "id": "B-17-00005",
+      "position": 0,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.0078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 1,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 1.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 2,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.09375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 3,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.328125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 4,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 5,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 2.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 6,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 7,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 1.9375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 8,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 3.703125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 9,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 10,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 3.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 11,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.484375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 12,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 13,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.40625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 14,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.9375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 15,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.3125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 16,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.5,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 17,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 18,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.453125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 19,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.5,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 20,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 21,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 22,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 23,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.453125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 24,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 25,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.609375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 26,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 27,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 28,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.234375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 29,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 30,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 31,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.453125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 32,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 2.890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 33,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.703125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 34,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.15625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 35,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 36,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 37,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 38,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.46875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 39,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.46875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 40,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 41,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.03125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 42,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.75,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 43,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.484375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 44,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 45,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.28125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 46,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.5625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 47,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.65625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 48,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.765625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 49,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 50,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 51,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 52,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 53,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.75,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 54,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.828125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 55,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 56,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 57,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.453125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 58,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.9140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 59,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 60,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 61,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 62,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 63,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 64,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.65625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 65,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.671875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 66,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 67,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.0,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 68,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 69,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 70,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.984375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 71,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.53125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 72,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 73,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 74,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 75,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 76,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 77,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.15625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 78,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 79,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.78125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 80,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.328125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 81,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 82,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 83,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 84,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.328125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 85,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.5625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 86,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 87,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 88,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.234375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 89,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.640625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 90,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.03125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 91,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 92,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 93,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.96875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 94,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 95,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 96,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 97,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 98,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.671875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 99,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.640625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 100,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.78125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 101,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 102,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 103,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 104,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 105,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.28125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 106,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 107,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.5,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 108,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.484375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 109,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.1875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 110,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.59375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 111,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 112,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 113,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.234375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 114,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 115,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.34375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 116,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 117,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 118,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.046875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 119,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.9375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 120,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 121,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.234375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 122,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 123,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 124,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 125,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.328125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 126,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.765625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 127,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 128,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 129,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 130,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 131,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 132,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 133,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.75,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 134,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 135,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.59375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 136,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 137,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.25,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 138,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 139,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 140,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.28125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 141,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.796875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 142,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 143,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.78125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 144,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 145,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.9375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 146,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.765625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 147,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 148,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 149,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 150,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 151,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 152,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 153,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 154,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 155,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.09375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 156,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 157,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.703125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 158,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 159,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 160,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.328125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 161,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.359375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 162,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.984375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 163,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.828125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 164,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 165,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 166,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.390625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 167,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.75,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 168,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 169,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 170,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 171,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 172,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.90625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 173,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.15625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 174,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.3828125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 175,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 176,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.640625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 177,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 178,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 179,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 180,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.59375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 181,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 182,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 183,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.5625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 184,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 185,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 186,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 187,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 188,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 189,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.703125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 190,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.0,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 191,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.59375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 192,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 193,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 194,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.5625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 195,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.90625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 196,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.90625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 197,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.15625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 198,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.4375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 199,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 200,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 201,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 202,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 203,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 204,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 205,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.828125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 206,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 207,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.3125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 208,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 209,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.78125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 210,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.09375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 211,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 212,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.46875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 213,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.640625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 214,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.390625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 215,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.203125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 216,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 217,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 218,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.1875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 219,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 220,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 221,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.09375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 222,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.796875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 223,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.8125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 224,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 225,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 226,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 227,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 228,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.03125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 229,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.265625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 230,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 12.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 231,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.28125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 232,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.359375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 233,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.5625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 234,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.78125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 235,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.984375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 236,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.34375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 237,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.015625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 238,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 239,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 240,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 241,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.3125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 242,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.2890625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 243,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 244,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 245,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.984375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 246,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 247,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.25,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 248,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 249,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.96875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 250,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 13.75,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 251,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.484375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 252,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 253,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.84375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 254,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 14.65625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-17-00005",
+      "position": 255,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.90625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 0,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.640625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 1,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.0078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 2,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 3,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 2.96875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 4,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.015625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 5,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.40625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 6,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 0.3046875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 7,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 1.0625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 8,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.171875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 9,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 3.609375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 10,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 1.765625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 11,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 2.4921875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 12,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 13,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.015625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 14,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.53125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 15,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.359375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 16,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 3.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 17,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.046875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 18,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.734375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 19,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.796875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 20,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.578125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 21,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 22,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.421875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 23,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.234375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 24,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 25,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.25,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 26,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 27,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.25,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 28,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 29,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.71875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 30,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.96875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 31,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 32,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.796875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 33,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.671875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 34,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.28125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 35,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 36,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 37,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.34375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 38,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.34375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 39,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.046875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 40,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 41,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 4.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 42,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 43,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.609375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 44,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.109375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 45,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 46,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 5.9375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 47,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 48,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.078125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 49,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.515625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 50,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.53125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 51,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 52,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.15625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 53,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 11.546875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 54,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.3125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 55,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.484375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 56,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.859375,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 57,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 58,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.953125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 59,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 8.6875,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 60,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 7.140625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 61,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 6.765625,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 62,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 9.703125,
+      "top1_equal": true
+    },
+    {
+      "id": "B-29-00004",
+      "position": 63,
+      "max_abs": 0.0,
+      "kl": 0.0,
+      "max_probability_delta": 0.0,
+      "reference_margin": 10.84375,
+      "top1_equal": true
+    }
+  ],
+  "passed": true
+}

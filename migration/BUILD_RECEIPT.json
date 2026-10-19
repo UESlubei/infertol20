@@ -1,0 +1,24 @@
+{
+  "bytes": 14232545280,
+  "sha256": "4e22a854f9f4f2d14c3bb1740a2e7d9bf61f82f8c4b53f4f93d341c24f5ddbeb",
+  "origin_release": "bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+  "source_core_unchanged": true,
+  "completed_unix": 1792383137.5674121,
+  "archive": "vllm-kv-offline-linux-x86_64-20261019.tar",
+  "validation": {
+    "passed": true,
+    "mode": "cpu/import-and-integrity",
+    "glibc": "2.31",
+    "torch": "2.9.0+cu128",
+    "vllm": "0.11.2",
+    "cuda": "12.8",
+    "pytest": "9.1.1",
+    "model_files": 9,
+    "compiler": "/usr/bin/gcc",
+    "origin_release": "bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+    "installed_release": "80ed9c9568cc3601e1a7534c960a1a2cb92be3bcdf08d257aad42a3b7be90371",
+    "gpu_test_performed": false,
+    "note": "No GPU generation while source-machine background experiments are active."
+  },
+  "note": "Build and relocation validation completed on the source host. Target GPU verification is required after installation."
+}

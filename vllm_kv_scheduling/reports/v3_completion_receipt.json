@@ -1,0 +1,24 @@
+{
+  "passed": true,
+  "completed_unix": 1792386393.5078616,
+  "formal_runs": 130,
+  "extended_runs": 167,
+  "long_runs": 10,
+  "http_runs": 10,
+  "source_snapshot": "bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+  "meaning": "mandatory experiments and data/correctness audits complete; does not assert a performance gain",
+  "control_assessment": [
+    {
+      "group": "E-G5",
+      "throughput_delta_percent": -0.002899476559955373,
+      "ttft_p95_delta_percent": -0.2975246262378469,
+      "development_3percent_target_met": true
+    },
+    {
+      "group": "F-G5",
+      "throughput_delta_percent": -0.3225761485641058,
+      "ttft_p95_delta_percent": 0.11848461263603588,
+      "development_3percent_target_met": true
+    }
+  ]
+}

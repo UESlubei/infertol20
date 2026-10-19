@@ -1,0 +1,32 @@
+{
+  "database": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/profiles/v3_combined.sqlite",
+  "scope": "named NVTX range, includes cache seed and profiling overhead",
+  "scope_ms": 10661.439341,
+  "gpu_activity_union_ms": 6069.186613,
+  "idle_within_scope_ms": 4592.252728,
+  "idle_fraction": 0.43073477990348585,
+  "counts": {
+    "CUPTI_ACTIVITY_KIND_KERNEL": 111771,
+    "CUPTI_ACTIVITY_KIND_MEMCPY": 246334,
+    "CUPTI_ACTIVITY_KIND_MEMSET": 6876
+  },
+  "victim_recoveries": [
+    {
+      "id": "C-17-00005",
+      "blocks": 145,
+      "computed": 2305,
+      "recovery_ms": 2007.3346458375454,
+      "preempt_step": 6,
+      "resume_step": 67
+    },
+    {
+      "id": "C-17-00005",
+      "blocks": 147,
+      "computed": 2342,
+      "recovery_ms": 988.5205337777734,
+      "preempt_step": 104,
+      "resume_step": 136
+    }
+  ],
+  "note": "Diagnostic only. Overlapping activity is merged, not summed. Recovery includes queueing."
+}

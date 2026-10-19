@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+*.tar
+*.tar.gz
+*.tar.part-*
+*.partial
+data/
+runtime/
+analysis/
+models/
+release-download/

@@ -1,0 +1,127 @@
+{
+  "rows": {
+    "default": [
+      {
+        "seed": 71,
+        "output_tok_s": 145.83499333814012,
+        "ttft_p95_ms": 3333.813888253643,
+        "e2e_p95_ms": 6640.882325451819,
+        "inter_chunk_p99_ms": 66.32630592212081,
+        "submission_lag_p95_ms": 1.703003235161304,
+        "trace_hash": "1d33ae3aedd8fef3ab300cd420287d904fff1a1ada56e9ad507988434994c637"
+      },
+      {
+        "seed": 101,
+        "output_tok_s": 148.71178379733564,
+        "ttft_p95_ms": 3305.4662832524623,
+        "e2e_p95_ms": 6062.804469000548,
+        "inter_chunk_p99_ms": 65.59811803512275,
+        "submission_lag_p95_ms": 1.7961381468921886,
+        "trace_hash": "e70f1208b1e95b4a12d6e8b7b6bcc3ea1dc89041e6204b15ec30741086b4f7f3"
+      },
+      {
+        "seed": 43,
+        "output_tok_s": 162.45986267464014,
+        "ttft_p95_ms": 13949.285034229979,
+        "e2e_p95_ms": 16978.536080382757,
+        "inter_chunk_p99_ms": 66.5983942616731,
+        "submission_lag_p95_ms": 1.8929724115878337,
+        "trace_hash": "529581d3e05e242af8adafb4fee3ce5b1a6b5d1864a0d22d3d4b74e92ffaa3a5"
+      },
+      {
+        "seed": 29,
+        "output_tok_s": 163.70853342894875,
+        "ttft_p95_ms": 5017.560855066404,
+        "e2e_p95_ms": 8781.189987575635,
+        "inter_chunk_p99_ms": 65.90186743997037,
+        "submission_lag_p95_ms": 1.889897137880325,
+        "trace_hash": "a20e5ef02c8117fc4408cb6823380fffa71d6516734bd428c2beebfde0ec84b6"
+      },
+      {
+        "seed": 17,
+        "output_tok_s": 157.02510641483516,
+        "ttft_p95_ms": 7457.326202001422,
+        "e2e_p95_ms": 10646.890424191946,
+        "inter_chunk_p99_ms": 65.63040792942043,
+        "submission_lag_p95_ms": 1.7801854293793433,
+        "trace_hash": "d669e1acd7e577f515a4094f135467ff36d9b32c1ecb2a60376762173ab8d9d4"
+      }
+    ],
+    "recompute": [
+      {
+        "seed": 71,
+        "output_tok_s": 145.7564493138307,
+        "ttft_p95_ms": 3537.9084851592766,
+        "e2e_p95_ms": 6925.573531631379,
+        "inter_chunk_p99_ms": 66.83868499472737,
+        "submission_lag_p95_ms": 1.9458160270005465,
+        "trace_hash": "1d33ae3aedd8fef3ab300cd420287d904fff1a1ada56e9ad507988434994c637"
+      },
+      {
+        "seed": 101,
+        "output_tok_s": 148.746482220938,
+        "ttft_p95_ms": 3256.59982021898,
+        "e2e_p95_ms": 6588.598801102485,
+        "inter_chunk_p99_ms": 66.4784645475447,
+        "submission_lag_p95_ms": 1.9277316983789194,
+        "trace_hash": "e70f1208b1e95b4a12d6e8b7b6bcc3ea1dc89041e6204b15ec30741086b4f7f3"
+      },
+      {
+        "seed": 43,
+        "output_tok_s": 161.01191777793636,
+        "ttft_p95_ms": 12780.070192553101,
+        "e2e_p95_ms": 15375.626159133382,
+        "inter_chunk_p99_ms": 69.09639868885276,
+        "submission_lag_p95_ms": 1.85563238337636,
+        "trace_hash": "529581d3e05e242af8adafb4fee3ce5b1a6b5d1864a0d22d3d4b74e92ffaa3a5"
+      },
+      {
+        "seed": 29,
+        "output_tok_s": 163.55887116148935,
+        "ttft_p95_ms": 5882.936681760474,
+        "e2e_p95_ms": 9733.196124667302,
+        "inter_chunk_p99_ms": 66.96503353305161,
+        "submission_lag_p95_ms": 1.6895961482077837,
+        "trace_hash": "a20e5ef02c8117fc4408cb6823380fffa71d6516734bd428c2beebfde0ec84b6"
+      },
+      {
+        "seed": 17,
+        "output_tok_s": 156.78301394930705,
+        "ttft_p95_ms": 7403.535849507897,
+        "e2e_p95_ms": 11348.636146076022,
+        "inter_chunk_p99_ms": 66.78878966718908,
+        "submission_lag_p95_ms": 1.498799445107579,
+        "trace_hash": "d669e1acd7e577f515a4094f135467ff36d9b32c1ecb2a60376762173ab8d9d4"
+      }
+    ]
+  },
+  "paired_relative_delta_percent": {
+    "output_tok_s": {
+      "mean": -0.23347659159929757,
+      "std": 0.37328470147681536,
+      "ci95": [
+        -0.571325874606099,
+        -0.027606903393482263
+      ],
+      "n": 5
+    },
+    "ttft_p95_ms": {
+      "mean": 2.557467547316647,
+      "std": 9.684964938228244,
+      "ci95": [
+        -4.100418346318231,
+        10.571950125060434
+      ],
+      "n": 5
+    },
+    "e2e_p95_ms": {
+      "mean": 4.190223752711872,
+      "std": 7.998551085861156,
+      "ci95": [
+        -2.6388062874165934,
+        9.123771542585226
+      ],
+      "n": 5
+    }
+  }
+}

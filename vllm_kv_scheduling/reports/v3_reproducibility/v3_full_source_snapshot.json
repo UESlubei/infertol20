@@ -1,0 +1,68 @@
+{
+  "sha256": "bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+  "path": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/source_snapshots/bd2dec2afee8da292e0c7876a0710c7156f487cb46d8849875e21fd96942430a",
+  "hashes": {
+    "kv_sched/__init__.py": "f6867a213479727d5e9be021798fd554b62c19ed4f40ec6d6887562e6ad7f98d",
+    "kv_sched/policy.py": "491e2b54aa0593398ef20a5b6a650530b659ecb4e5b5ec0635736f6c40008110",
+    "kv_sched/runtime.py": "3caac3273848ae625ffc4beff781cbbe876b137bf42ddfba6468b5613c057be7",
+    "benchmarks/run_trace.py": "514bd97ea56ab2fc02a9a4c6b8a8c6d992843ae75edbb29fa9129bd69c345956",
+    "benchmarks/compat.py": "00d0091a765595b4349e9326073019dec64b7cfd00bdcdbbcadb723c56dda468",
+    "benchmarks/prepare.py": "f33a59252fcdb525da257ec7e46225824b6cf330cbbf2a3f5c1e8ac576a487b2",
+    "patches/scheduler-v0.11.2.patch": "21797bef646d5c08448aae400b03f33add56408d3304acfb50152f062f9f0362",
+    "patches/upstream-compat-v0.11.2.patch": "bceac0aa4cb46f461d731df689c2567838b0767347c8bf28dc3c310c72b9ca06",
+    "configs/local_compatibility_fixes.json": "4ac0f94dab68f13e780997487265fd9d9a6d11199a09d7742dcc2e45bbc02a39",
+    "configs/upstream_compat.json": "770db81b3e9687bf42494c7a08319916c7986474e997c00025b82d4415623ba9",
+    "configs/upstream_strategy_references.json": "15fc978e94e35f81c0b601ad6fc7ec0ee9609dbbc2c71b9f194c0094c7209c96"
+  },
+  "vendor_hashes": {
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/v1/kv_offload/worker/cpu_gpu.py": "c3c39bd3e018edf94ac8a0f9797c841f05345e0520d45fcbfb5fcad5c92744ef",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/v1/kv_offload/worker/worker.py": "b641dc86457b3ffb9e767966f9418614d82de0be95a04f2bb4d83dc60141de03",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/v1/core/sched/output.py": "78b395f6f9b443c3d534ea8a06f1242926ec8c15f468f2ea334e4d0da131ded7",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/v1/core/sched/scheduler.py": "b5b23aecaf049c4c6e92925ad25937edeb36bbea785dd5830387d952faa9336f",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/distributed/kv_transfer/kv_connector/v1/offloading_connector.py": "c74b394e9aed3659e49fbf686dd05f7445a2973617141a35873a606612908a3e",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/stock/vllm/v1/worker/gpu_model_runner.py": "f7c4c87b7623d7f31afe8e100577f7bb04c405387b19bfe62a269283d9199370",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/v1/kv_offload/worker/cpu_gpu.py": "c3c39bd3e018edf94ac8a0f9797c841f05345e0520d45fcbfb5fcad5c92744ef",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/v1/kv_offload/worker/worker.py": "b641dc86457b3ffb9e767966f9418614d82de0be95a04f2bb4d83dc60141de03",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/v1/core/sched/output.py": "78b395f6f9b443c3d534ea8a06f1242926ec8c15f468f2ea334e4d0da131ded7",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/v1/core/sched/scheduler.py": "d27cbeec5f2f6f183a36728ad462a9a2acf6d1082be006db668d44a1e038897c",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/distributed/kv_transfer/kv_connector/v1/offloading_connector.py": "c74b394e9aed3659e49fbf686dd05f7445a2973617141a35873a606612908a3e",
+    "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/vendor/optimized/vllm/v1/worker/gpu_model_runner.py": "f7c4c87b7623d7f31afe8e100577f7bb04c405387b19bfe62a269283d9199370"
+  },
+  "environment_manifest": {
+    "commit": "275de34170654274616082721348b7edd9741d32",
+    "source_validation": {
+      "v1/core/sched/scheduler.py": "82d9cbbc71e147ba3b0e3623f72931f383e07ae72cb3aa9fc2eb4b4c427350e8",
+      "v1/core/kv_cache_manager.py": "39ef4ed095251efab344c84d7b81227127ac29f2a684255dd08dc523319142cf",
+      "distributed/kv_transfer/kv_connector/v1/offloading_connector.py": "4a617f25a1e054d9b836b51a37e21795799c4e778c7bf93d680fd3041d6f4a83",
+      "v1/kv_offload/lru_manager.py": "40ef391ed0f4b95f84b7f52485976d817937f3e499a8742d222d0cfaa9d650b6",
+      "v1/kv_offload/worker/cpu_gpu.py": "f9042a43cc361ac920353d8dd6b5cce35959c4ec5d5f355e4c9aed3ebd5592a1"
+    },
+    "native_wheel": "/mnt/ondeviceinfer/conda-envs/vllm-0.11.2/lib/python3.11/site-packages/vllm",
+    "patch_sha256": "21797bef646d5c08448aae400b03f33add56408d3304acfb50152f062f9f0362",
+    "binary_strategy": "unaltered native files symlinked from existing 0.11.2 wheel; private Python overlay",
+    "compat_patch_sha256": "bceac0aa4cb46f461d731df689c2567838b0767347c8bf28dc3c310c72b9ca06",
+    "compat_references": [
+      {
+        "number": 28951,
+        "head": "62fc83123e0a0e3cb9535b49ce9d3992a05f7732",
+        "merge": "c0c2dd1e0b75c70706f4d8dbcd1d75f1c1750e14",
+        "url": "https://github.com/vllm-project/vllm/pull/28951",
+        "title": "Fix partial CPU block loading"
+      },
+      {
+        "number": 29870,
+        "head": "5aa68e443d78f25f0bbd8d5fc6672cc6945a0191",
+        "merge": "4c16ba617f76b342dd0e62deba1f96ed6cee74fa",
+        "url": "https://github.com/vllm-project/vllm/pull/29870",
+        "title": "Flush stores before preempted GPU blocks are overwritten"
+      },
+      {
+        "number": 27743,
+        "head": "a58c3760878c42ab8708f1f8f35fec8e9c5fea76",
+        "merge": "647464719b131963dccdc3a28cfe52d1af293cda",
+        "url": "https://github.com/vllm-project/vllm/pull/27743",
+        "title": "Cross-layer KV blocks; dependency context for deferred stores (no kernel backport)"
+      }
+    ]
+  }
+}

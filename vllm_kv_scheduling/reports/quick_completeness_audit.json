@@ -1,0 +1,706 @@
+{
+  "label": "quick",
+  "completed_runs": 12,
+  "expected_runs": 12,
+  "errors": [],
+  "runs": [
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/cpu/D-B1/seed-17",
+      "group": "D-B1",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:43:22.034680+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:43:22.034680+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1923.5869162715971,
+            "p50": 1862.717223353684,
+            "p95": 3287.091154558583,
+            "p99": 3541.501210620627
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3252.0525274798274,
+            "p50": 3225.2489728853106,
+            "p95": 4597.672431822865,
+            "p99": 4828.82242931053
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1735.084581375122,
+            "p50": 1663.946032524109,
+            "p95": 3128.536450862884,
+            "p99": 3333.5283732414246
+          }
+        },
+        "cpu_warm": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1607.1046825498343,
+            "p50": 1744.6366464719176,
+            "p95": 2523.9555132575324,
+            "p99": 2807.5397157110274
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3005.2575128152966,
+            "p50": 2953.312321100384,
+            "p95": 4272.833058284595,
+            "p99": 4708.660863647237
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1434.6277475357056,
+            "p50": 1526.2283086776733,
+            "p95": 2357.842469215392,
+            "p99": 2708.5502672195435
+          }
+        },
+        "gpu_warm": {
+          "requests": 12,
+          "ttft_ms": {
+            "count": 12,
+            "mean": 1734.6768177424867,
+            "p50": 1768.5611601918936,
+            "p95": 3091.5662525221696,
+            "p99": 3548.36570378393
+          },
+          "e2e_ms": {
+            "count": 12,
+            "mean": 3112.7386833541095,
+            "p50": 2991.398674901575,
+            "p95": 4440.631405450403,
+            "p99": 4851.004891283811
+          },
+          "admission_wait_ms": {
+            "count": 12,
+            "mean": 1582.0624033610027,
+            "p50": 1642.3205137252808,
+            "p95": 2877.9577374458304,
+            "p99": 3392.5711464881906
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/cpu/D-B1/seed-29",
+      "group": "D-B1",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:43:53.711190+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:43:53.711190+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1927.2544769570231,
+            "p50": 1874.5802696794271,
+            "p95": 3303.3666853327295,
+            "p99": 3564.459237838164
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3261.0994352959096,
+            "p50": 3241.8358381837606,
+            "p95": 4615.114837465807,
+            "p99": 4852.037176406011
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1738.93883228302,
+            "p50": 1675.004243850708,
+            "p95": 3147.402989864349,
+            "p99": 3358.4253764152527
+          }
+        },
+        "cpu_warm": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1612.5073502771556,
+            "p50": 1755.7525807060301,
+            "p95": 2544.057682482525,
+            "p99": 2831.1754964943975
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3015.6555329449475,
+            "p50": 2954.441304318607,
+            "p95": 4297.569161094724,
+            "p99": 4733.52314863354
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1440.3137922286987,
+            "p50": 1531.2711000442505,
+            "p95": 2382.7884793281546,
+            "p99": 2740.8462166786194
+          }
+        },
+        "gpu_warm": {
+          "requests": 12,
+          "ttft_ms": {
+            "count": 12,
+            "mean": 1739.293359297638,
+            "p50": 1778.044976759702,
+            "p95": 3103.2604821491977,
+            "p99": 3572.734751263634
+          },
+          "e2e_ms": {
+            "count": 12,
+            "mean": 3124.409516885256,
+            "p50": 2997.780124191195,
+            "p95": 4467.417906457557,
+            "p99": 4878.817175226287
+          },
+          "admission_wait_ms": {
+            "count": 12,
+            "mean": 1586.6124232610066,
+            "p50": 1652.4312496185303,
+            "p95": 2889.5586848258963,
+            "p99": 3416.7314314842233
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/cpu/D-O3/seed-17",
+      "group": "D-O3",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:43:32.598850+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:43:32.598850+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 2460.383344627917,
+            "p50": 2334.5979913137853,
+            "p95": 3465.6099434476346,
+            "p99": 3520.487708216533
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3803.883318323642,
+            "p50": 3787.7743053250015,
+            "p95": 4796.8223326373845,
+            "p99": 4828.454490909353
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 2256.607985496521,
+            "p50": 2162.8271341323853,
+            "p95": 3232.6884746551514,
+            "p99": 3288.478765487671
+          }
+        },
+        "cpu_warm": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1582.7927365899086,
+            "p50": 1677.4385417811573,
+            "p95": 2057.412599027157,
+            "p99": 2133.4974797070026
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 2969.2298016510904,
+            "p50": 3084.1969568282366,
+            "p95": 3417.1097734943028,
+            "p99": 3515.4449136927724
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1096.3238716125488,
+            "p50": 1582.0462703704834,
+            "p95": 1978.9393305778501,
+            "p99": 2055.3829741477966
+          }
+        },
+        "gpu_warm": {
+          "requests": 12,
+          "ttft_ms": {
+            "count": 12,
+            "mean": 1379.1598586831242,
+            "p50": 1581.6388637758791,
+            "p95": 2775.2504726406187,
+            "p99": 2786.821378124878
+          },
+          "e2e_ms": {
+            "count": 12,
+            "mean": 2798.9980015748492,
+            "p50": 2879.5385081321,
+            "p95": 4349.247582117096,
+            "p99": 4579.073071451858
+          },
+          "admission_wait_ms": {
+            "count": 12,
+            "mean": 1222.7996587753296,
+            "p50": 1450.889229774475,
+            "p95": 2685.6783151626587,
+            "p99": 2686.571469306946
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/cpu/D-O3/seed-29",
+      "group": "D-O3",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:43:43.179021+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:43:43.179021+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 2459.756159223616,
+            "p50": 2330.0391933880746,
+            "p95": 3447.7059721015394,
+            "p99": 3513.9744593016803
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 3814.646425843239,
+            "p50": 3797.2348355688155,
+            "p95": 4798.264561081305,
+            "p99": 4829.981959955767
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 2250.615978240967,
+            "p50": 2158.9077711105347,
+            "p95": 3198.301088809967,
+            "p99": 3253.4963154792786
+          }
+        },
+        "cpu_warm": {
+          "requests": 10,
+          "ttft_ms": {
+            "count": 10,
+            "mean": 1581.0247167013586,
+            "p50": 1637.7063826657832,
+            "p95": 2092.899432312697,
+            "p99": 2171.521824207157
+          },
+          "e2e_ms": {
+            "count": 10,
+            "mean": 2975.486790854484,
+            "p50": 3052.4580059573054,
+            "p95": 3472.9699406307186,
+            "p99": 3571.892117476091
+          },
+          "admission_wait_ms": {
+            "count": 10,
+            "mean": 1103.597354888916,
+            "p50": 1557.068943977356,
+            "p95": 2015.6990408897398,
+            "p99": 2092.9810786247253
+          }
+        },
+        "gpu_warm": {
+          "requests": 12,
+          "ttft_ms": {
+            "count": 12,
+            "mean": 1362.8943300185103,
+            "p50": 1533.5561065003276,
+            "p95": 2766.6690689511597,
+            "p99": 2812.0489799417555
+          },
+          "e2e_ms": {
+            "count": 12,
+            "mean": 2795.7685131113976,
+            "p50": 2888.8660110533237,
+            "p95": 4377.556893229485,
+            "p99": 4588.092268109322
+          },
+          "admission_wait_ms": {
+            "count": 12,
+            "mean": 1222.368856271108,
+            "p50": 1391.9909000396729,
+            "p95": 2676.604211330414,
+            "p99": 2711.568248271942
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/A-G0/seed-17",
+      "group": "A-G0",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:41:04.408446+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:41:04.408446+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 8,
+          "ttft_ms": {
+            "count": 8,
+            "mean": 2774.5355159277096,
+            "p50": 2597.032174002379,
+            "p95": 5363.780784932896,
+            "p99": 5722.937220251188
+          },
+          "e2e_ms": {
+            "count": 8,
+            "mean": 4040.733566507697,
+            "p50": 3852.7844971977174,
+            "p95": 6590.09696911089,
+            "p99": 6900.968351950869
+          },
+          "admission_wait_ms": {
+            "count": 8,
+            "mean": 2457.5310051441193,
+            "p50": 2400.4969596862793,
+            "p95": 5163.068151473998,
+            "p99": 5537.39821434021
+          }
+        },
+        "gpu_warm": {
+          "requests": 16,
+          "ttft_ms": {
+            "count": 16,
+            "mean": 2966.305170324631,
+            "p50": 3264.657943043858,
+            "p95": 5921.320712659508,
+            "p99": 5921.636398602277
+          },
+          "e2e_ms": {
+            "count": 16,
+            "mean": 4224.71155168023,
+            "p50": 4500.618458725512,
+            "p95": 7011.873754207045,
+            "p99": 7012.189440149814
+          },
+          "admission_wait_ms": {
+            "count": 16,
+            "mean": 2850.8217185735703,
+            "p50": 3112.8783226013184,
+            "p95": 5781.555354595184,
+            "p99": 5854.182851314545
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/A-G0/seed-29",
+      "group": "A-G0",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:42:55.554252+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:42:55.554252+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 8,
+          "ttft_ms": {
+            "count": 8,
+            "mean": 2710.602635052055,
+            "p50": 2525.87059000507,
+            "p95": 5202.115179877727,
+            "p99": 5523.041934873909
+          },
+          "e2e_ms": {
+            "count": 8,
+            "mean": 3933.007354498841,
+            "p50": 3769.9547512456775,
+            "p95": 6320.376046793534,
+            "p99": 6599.1643005702645
+          },
+          "admission_wait_ms": {
+            "count": 8,
+            "mean": 2257.948786020279,
+            "p50": 2338.7786149978638,
+            "p95": 4327.1989941596985,
+            "p99": 4379.65927362442
+          }
+        },
+        "gpu_warm": {
+          "requests": 16,
+          "ttft_ms": {
+            "count": 16,
+            "mean": 2800.117676379159,
+            "p50": 3164.583660196513,
+            "p95": 5602.417050860822,
+            "p99": 5602.703334204853
+          },
+          "e2e_ms": {
+            "count": 16,
+            "mean": 4022.115225670859,
+            "p50": 4386.233756318688,
+            "p95": 6668.004791252315,
+            "p99": 6668.291074596345
+          },
+          "admission_wait_ms": {
+            "count": 16,
+            "mean": 2709.5725685358047,
+            "p50": 3010.931968688965,
+            "p95": 5554.862976074219,
+            "p99": 5555.066680908203
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/A-G1/seed-17",
+      "group": "A-G1",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:41:11.756566+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:41:11.756566+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 8,
+          "ttft_ms": {
+            "count": 8,
+            "mean": 3464.4202422350645,
+            "p50": 3497.047131881118,
+            "p95": 4965.662181796505,
+            "p99": 5285.135034555569
+          },
+          "e2e_ms": {
+            "count": 8,
+            "mean": 4783.192858914845,
+            "p50": 4862.11859760806,
+            "p95": 6211.561014596372,
+            "p99": 6486.981912273914
+          },
+          "admission_wait_ms": {
+            "count": 8,
+            "mean": 3030.200332403183,
+            "p50": 2824.191451072693,
+            "p95": 4144.751036167145,
+            "p99": 4188.233273029327
+          }
+        },
+        "gpu_warm": {
+          "requests": 16,
+          "ttft_ms": {
+            "count": 16,
+            "mean": 1503.3831006730907,
+            "p50": 1246.7497428879142,
+            "p95": 5523.26528634876,
+            "p99": 5523.574594222009
+          },
+          "e2e_ms": {
+            "count": 16,
+            "mean": 2799.118332390208,
+            "p50": 2506.5824249759316,
+            "p95": 6606.293526478112,
+            "p99": 6606.602834351361
+          },
+          "admission_wait_ms": {
+            "count": 16,
+            "mean": 1434.9511414766312,
+            "p50": 1198.6992359161377,
+            "p95": 5394.783854484558,
+            "p99": 5466.843008995056
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/A-G1/seed-29",
+      "group": "A-G1",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:42:48.106131+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:42:48.106131+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 8,
+          "ttft_ms": {
+            "count": 8,
+            "mean": 3182.029025047086,
+            "p50": 2983.758800663054,
+            "p95": 4287.994980206713,
+            "p99": 4357.336024818942
+          },
+          "e2e_ms": {
+            "count": 8,
+            "mean": 4486.68295389507,
+            "p50": 4313.164882361889,
+            "p95": 5533.021552907303,
+            "p99": 5545.767832258716
+          },
+          "admission_wait_ms": {
+            "count": 8,
+            "mean": 2736.6893887519836,
+            "p50": 2798.7711429595947,
+            "p95": 4086.373233795166,
+            "p99": 4154.742221832275
+          }
+        },
+        "gpu_warm": {
+          "requests": 16,
+          "ttft_ms": {
+            "count": 16,
+            "mean": 1648.0420586885884,
+            "p50": 1249.253070447594,
+            "p95": 5464.022744214162,
+            "p99": 5464.325808687136
+          },
+          "e2e_ms": {
+            "count": 16,
+            "mean": 2805.6478818762116,
+            "p50": 2416.6231495328248,
+            "p95": 6515.021110652015,
+            "p99": 6515.324175124988
+          },
+          "admission_wait_ms": {
+            "count": 16,
+            "mean": 1501.203939318657,
+            "p50": 627.5743246078491,
+            "p95": 5332.723557949066,
+            "p99": 5406.261432170868
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/B-G0/seed-17",
+      "group": "B-G0",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:41:33.084913+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:41:33.084913+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 24,
+          "ttft_ms": {
+            "count": 24,
+            "mean": 5789.202530790742,
+            "p50": 5344.733199104667,
+            "p95": 12482.518530497327,
+            "p99": 16032.932883128522
+          },
+          "e2e_ms": {
+            "count": 24,
+            "mean": 8985.247829114087,
+            "p50": 7802.198722027242,
+            "p95": 16881.149987131357,
+            "p99": 20081.611316353083
+          },
+          "admission_wait_ms": {
+            "count": 24,
+            "mean": 5149.586329857509,
+            "p50": 5184.003949165344,
+            "p95": 12411.797070503235,
+            "p99": 12420.928909778595
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/B-G0/seed-29",
+      "group": "B-G0",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:42:40.854014+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:42:40.854014+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 24,
+          "ttft_ms": {
+            "count": 24,
+            "mean": 10207.027793473875,
+            "p50": 12515.630104579031,
+            "p95": 20599.57662564702,
+            "p99": 21073.83551735431
+          },
+          "e2e_ms": {
+            "count": 24,
+            "mean": 13244.116060940238,
+            "p50": 14781.925653573126,
+            "p95": 22206.792539032176,
+            "p99": 22900.824258476496
+          },
+          "admission_wait_ms": {
+            "count": 24,
+            "mean": 9401.85538927714,
+            "p50": 9120.72205543518,
+            "p95": 19570.13177871704,
+            "p99": 20448.124327659607
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/B-G4/seed-17",
+      "group": "B-G4",
+      "seed": 17,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:41:54.761266+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:41:54.761266+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 24,
+          "ttft_ms": {
+            "count": 24,
+            "mean": 5797.2108782657115,
+            "p50": 5282.623036298901,
+            "p95": 13031.664502620697,
+            "p99": 16423.97560541518
+          },
+          "e2e_ms": {
+            "count": 24,
+            "mean": 9443.5129724831,
+            "p50": 8690.726470202208,
+            "p95": 17312.409192044288,
+            "p99": 20450.271813897416
+          },
+          "admission_wait_ms": {
+            "count": 24,
+            "mean": 5409.79877114296,
+            "p50": 5122.281312942505,
+            "p95": 12917.587339878082,
+            "p99": 12964.117496013641
+          }
+        }
+      }
+    },
+    {
+      "run": "/mnt/ondeviceinfer/experiments/vllm_kv_scheduling/raw/quick/gpu640/B-G4/seed-29",
+      "group": "B-G4",
+      "seed": 29,
+      "source_end_utc_from_file_mtime": "2026-10-18T18:42:17.469635+00:00",
+      "source_end_shanghai_from_file_mtime": "2026-10-19T02:42:17.469635+08:00",
+      "timestamp_note": "file mtime follows metric serialization; not an exact runner clock timestamp",
+      "fairness_by_fixed_trace_class": {
+        "cold": {
+          "requests": 24,
+          "ttft_ms": {
+            "count": 24,
+            "mean": 9469.738103216514,
+            "p50": 8571.382918860763,
+            "p95": 18773.011150071394,
+            "p99": 20846.290959138423
+          },
+          "e2e_ms": {
+            "count": 24,
+            "mean": 12892.866812180728,
+            "p50": 14191.614812705666,
+            "p95": 21950.41606160812,
+            "p99": 22344.083895375952
+          },
+          "admission_wait_ms": {
+            "count": 24,
+            "mean": 8962.758173545202,
+            "p50": 8187.892198562622,
+            "p95": 17777.959978580475,
+            "p99": 19352.709674835205
+          }
+        }
+      }
+    }
+  ],
+  "data_checks_passed": true,
+  "passed": true
+}

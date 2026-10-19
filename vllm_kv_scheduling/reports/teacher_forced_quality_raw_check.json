@@ -1,0 +1,5782 @@
+{
+  "cpu_baseline": {
+    "positions": 320,
+    "max_abs": 0.234375,
+    "max_rms": 0.06112371385097504,
+    "mean_kl": 4.148440910001217e-06,
+    "top1_agreement": 0.996875,
+    "rows": [
+      {
+        "id": "C-17-00000",
+        "position": 0,
+        "max_abs": 0.015625,
+        "rms": 0.0035013866145163774,
+        "kl": 6.63366517983377e-06,
+        "top1_equal": true,
+        "reference_margin": 0.9765625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 0,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.1875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 1,
+        "max_abs": 0.0078125,
+        "rms": 0.002361445454880595,
+        "kl": 5.6024291552603245e-06,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 1,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.7265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 2,
+        "max_abs": 0.025390625,
+        "rms": 0.006257202941924334,
+        "kl": 4.6046416457556916e-08,
+        "top1_equal": true,
+        "reference_margin": 1.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 2,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 2.078125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 0,
+        "max_abs": 0.015625,
+        "rms": 0.005041308235377073,
+        "kl": 2.3932516342028975e-06,
+        "top1_equal": true,
+        "reference_margin": 0.6328125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 3,
+        "max_abs": 0.0185546875,
+        "rms": 0.0040032994002103806,
+        "kl": 3.049100996577181e-05,
+        "top1_equal": true,
+        "reference_margin": 1.84375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 3,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 2.125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 1,
+        "max_abs": 0.015625,
+        "rms": 0.0030104562174528837,
+        "kl": 1.2803255231119692e-05,
+        "top1_equal": true,
+        "reference_margin": 0.3203125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 0,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.09375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 4,
+        "max_abs": 0.0234375,
+        "rms": 0.005052589345723391,
+        "kl": 2.6187406547251157e-05,
+        "top1_equal": true,
+        "reference_margin": 0.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 4,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 3.21875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 2,
+        "max_abs": 0.015625,
+        "rms": 0.0028297549579292536,
+        "kl": 2.4093578758765943e-06,
+        "top1_equal": true,
+        "reference_margin": 0.453125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 1,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.004587247036397457,
+        "kl": 9.562964805809315e-06,
+        "top1_equal": true,
+        "reference_margin": 2.28125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.006388720590621233,
+        "kl": 6.133748684078455e-06,
+        "top1_equal": true,
+        "reference_margin": 4.640625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.003330498468130827,
+        "kl": 4.2600186134222895e-06,
+        "top1_equal": true,
+        "reference_margin": 0.828125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 2,
+        "max_abs": 0.015625,
+        "rms": 0.005345209967344999,
+        "kl": 1.2862044968642294e-05,
+        "top1_equal": true,
+        "reference_margin": 0.75
+      },
+      {
+        "id": "C-17-00000",
+        "position": 6,
+        "max_abs": 0.015625,
+        "rms": 0.0029433381278067827,
+        "kl": 1.0193285561399534e-05,
+        "top1_equal": true,
+        "reference_margin": 1.546875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 6,
+        "max_abs": 0.015625,
+        "rms": 0.0040200259536504745,
+        "kl": 1.1148786143166944e-06,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.0033970160875469446,
+        "kl": 1.5787227312102914e-05,
+        "top1_equal": true,
+        "reference_margin": 2.203125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.003695277264341712,
+        "kl": 2.590194344520569e-05,
+        "top1_equal": true,
+        "reference_margin": 2.8125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 7,
+        "max_abs": 0.017578125,
+        "rms": 0.004516741260886192,
+        "kl": 5.196271104068728e-06,
+        "top1_equal": true,
+        "reference_margin": 1.296875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 7,
+        "max_abs": 0.017578125,
+        "rms": 0.004164922051131725,
+        "kl": 1.7154529814433772e-06,
+        "top1_equal": true,
+        "reference_margin": 6.09375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.003124427981674671,
+        "kl": 9.848889931163285e-06,
+        "top1_equal": true,
+        "reference_margin": 1.375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.003240225138142705,
+        "kl": 2.722663339227438e-05,
+        "top1_equal": true,
+        "reference_margin": 1.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 8,
+        "max_abs": 0.0234375,
+        "rms": 0.005281538236886263,
+        "kl": 8.978004757409508e-07,
+        "top1_equal": true,
+        "reference_margin": 2.875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 8,
+        "max_abs": 0.015625,
+        "rms": 0.00440128892660141,
+        "kl": 1.794320996850729e-05,
+        "top1_equal": true,
+        "reference_margin": 6.1875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 6,
+        "max_abs": 0.0234375,
+        "rms": 0.0074126096442341805,
+        "kl": 9.841483006312046e-07,
+        "top1_equal": true,
+        "reference_margin": 5.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 5,
+        "max_abs": 0.01171875,
+        "rms": 0.0027036950923502445,
+        "kl": 4.510764028964331e-06,
+        "top1_equal": true,
+        "reference_margin": 3.2734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 9,
+        "max_abs": 0.0234375,
+        "rms": 0.007192238233983517,
+        "kl": 1.837389572756365e-05,
+        "top1_equal": true,
+        "reference_margin": 0.703125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 9,
+        "max_abs": 0.0234375,
+        "rms": 0.004237357527017593,
+        "kl": 2.990458597196266e-06,
+        "top1_equal": true,
+        "reference_margin": 6.6171875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.0030637693125754595,
+        "kl": 1.775697455741465e-08,
+        "top1_equal": true,
+        "reference_margin": 2.71875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 6,
+        "max_abs": 0.01171875,
+        "rms": 0.0023715379647910595,
+        "kl": 2.2652811821899377e-06,
+        "top1_equal": true,
+        "reference_margin": 3.921875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 10,
+        "max_abs": 0.02734375,
+        "rms": 0.007235857658088207,
+        "kl": 1.0513955203350633e-05,
+        "top1_equal": true,
+        "reference_margin": 4.171875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 10,
+        "max_abs": 0.0234375,
+        "rms": 0.010521120391786098,
+        "kl": 1.3246717571746558e-06,
+        "top1_equal": true,
+        "reference_margin": 6.546875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 8,
+        "max_abs": 0.0234375,
+        "rms": 0.005905198398977518,
+        "kl": -4.213839019939769e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.0032309540547430515,
+        "kl": 9.297182259615511e-07,
+        "top1_equal": true,
+        "reference_margin": 4.4921875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 11,
+        "max_abs": 0.0224609375,
+        "rms": 0.005119538865983486,
+        "kl": 1.9179929950041696e-05,
+        "top1_equal": true,
+        "reference_margin": 1.328125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 11,
+        "max_abs": 0.0234375,
+        "rms": 0.003934207838028669,
+        "kl": 5.510173650691286e-09,
+        "top1_equal": true,
+        "reference_margin": 6.75
+      },
+      {
+        "id": "C-17-00002",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.0027444397564977407,
+        "kl": 5.07196659782494e-07,
+        "top1_equal": true,
+        "reference_margin": 3.171875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 8,
+        "max_abs": 0.0234375,
+        "rms": 0.009165149182081223,
+        "kl": 1.3017714081797749e-05,
+        "top1_equal": true,
+        "reference_margin": 4.4765625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 12,
+        "max_abs": 0.02734375,
+        "rms": 0.005606451537460089,
+        "kl": 1.4925270079402253e-05,
+        "top1_equal": true,
+        "reference_margin": 1.9375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 12,
+        "max_abs": 0.01953125,
+        "rms": 0.0052734543569386005,
+        "kl": -3.421628207433969e-07,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 10,
+        "max_abs": 0.015625,
+        "rms": 0.003090007696300745,
+        "kl": -1.299560068446226e-07,
+        "top1_equal": true,
+        "reference_margin": 8.1015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.004821706563234329,
+        "kl": -1.1795709724538028e-06,
+        "top1_equal": true,
+        "reference_margin": 5.28125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 13,
+        "max_abs": 0.03125,
+        "rms": 0.004881002940237522,
+        "kl": 3.323611281302874e-06,
+        "top1_equal": true,
+        "reference_margin": 3.5
+      },
+      {
+        "id": "C-17-00001",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.004206277430057526,
+        "kl": -3.5450966606731527e-08,
+        "top1_equal": true,
+        "reference_margin": 7.203125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 11,
+        "max_abs": 0.015625,
+        "rms": 0.0034337318502366543,
+        "kl": 3.2614963174637523e-08,
+        "top1_equal": true,
+        "reference_margin": 3.71875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 10,
+        "max_abs": 0.0234375,
+        "rms": 0.00826413743197918,
+        "kl": 5.2568138926289976e-06,
+        "top1_equal": true,
+        "reference_margin": 5.6875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 14,
+        "max_abs": 0.03125,
+        "rms": 0.004533237777650356,
+        "kl": 2.756699723249767e-05,
+        "top1_equal": true,
+        "reference_margin": 0.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 14,
+        "max_abs": 0.0234375,
+        "rms": 0.004729589447379112,
+        "kl": 1.0888325050473213e-06,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 12,
+        "max_abs": 0.0185546875,
+        "rms": 0.003784024156630039,
+        "kl": 6.41541078039154e-08,
+        "top1_equal": true,
+        "reference_margin": 8.984375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 11,
+        "max_abs": 0.0078125,
+        "rms": 0.002496307482942939,
+        "kl": -1.3452245184453204e-06,
+        "top1_equal": true,
+        "reference_margin": 5.7109375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 0,
+        "max_abs": 0.0234375,
+        "rms": 0.007430010940879583,
+        "kl": 1.0874173312913626e-05,
+        "top1_equal": true,
+        "reference_margin": 0.2734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 15,
+        "max_abs": 0.0341796875,
+        "rms": 0.012028956785798073,
+        "kl": 2.218704321421683e-05,
+        "top1_equal": true,
+        "reference_margin": 1.515625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 15,
+        "max_abs": 0.01953125,
+        "rms": 0.00452782167121768,
+        "kl": 1.077591150533408e-06,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.0036359536461532116,
+        "kl": -4.7174992801046756e-08,
+        "top1_equal": true,
+        "reference_margin": 4.25
+      },
+      {
+        "id": "C-17-00004",
+        "position": 12,
+        "max_abs": 0.015625,
+        "rms": 0.002975479234009981,
+        "kl": 1.7777281300368486e-06,
+        "top1_equal": true,
+        "reference_margin": 6.21875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 1,
+        "max_abs": 0.01171875,
+        "rms": 0.002968345070257783,
+        "kl": 6.644419045187533e-06,
+        "top1_equal": true,
+        "reference_margin": 0.6015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 16,
+        "max_abs": 0.03125,
+        "rms": 0.00578432297334075,
+        "kl": 2.9328273740247823e-05,
+        "top1_equal": true,
+        "reference_margin": 0.390625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 16,
+        "max_abs": 0.021484375,
+        "rms": 0.0057676141150295734,
+        "kl": 7.971202649059705e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 14,
+        "max_abs": 0.015625,
+        "rms": 0.0035156714729964733,
+        "kl": 6.45726174752781e-08,
+        "top1_equal": true,
+        "reference_margin": 9.078125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.002786006312817335,
+        "kl": 4.066096153110266e-06,
+        "top1_equal": true,
+        "reference_margin": 6.5
+      },
+      {
+        "id": "C-17-00015",
+        "position": 2,
+        "max_abs": 0.01953125,
+        "rms": 0.007688511628657579,
+        "kl": 2.0516345102805644e-05,
+        "top1_equal": false,
+        "reference_margin": 0.0
+      },
+      {
+        "id": "C-17-00000",
+        "position": 17,
+        "max_abs": 0.029296875,
+        "rms": 0.006211106199771166,
+        "kl": 6.198725168360397e-05,
+        "top1_equal": true,
+        "reference_margin": 0.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 17,
+        "max_abs": 0.021484375,
+        "rms": 0.006099169608205557,
+        "kl": 3.1316794775193557e-06,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 15,
+        "max_abs": 0.01953125,
+        "rms": 0.0037463423795998096,
+        "kl": 1.5813698155398015e-06,
+        "top1_equal": true,
+        "reference_margin": 4.421875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 14,
+        "max_abs": 0.015625,
+        "rms": 0.0039565665647387505,
+        "kl": 2.306178430444561e-06,
+        "top1_equal": true,
+        "reference_margin": 6.15625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.003787918947637081,
+        "kl": 3.308386658318341e-05,
+        "top1_equal": true,
+        "reference_margin": 1.28125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 18,
+        "max_abs": 0.0234375,
+        "rms": 0.0046082460321486,
+        "kl": 4.145975083247322e-07,
+        "top1_equal": true,
+        "reference_margin": 5.96875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 18,
+        "max_abs": 0.0234375,
+        "rms": 0.004080706741660833,
+        "kl": 1.3664293874171562e-06,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 16,
+        "max_abs": 0.01953125,
+        "rms": 0.004120051395148039,
+        "kl": 4.328422420485367e-08,
+        "top1_equal": true,
+        "reference_margin": 9.09375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 15,
+        "max_abs": 0.015625,
+        "rms": 0.0033249834086745977,
+        "kl": -7.607350198668428e-07,
+        "top1_equal": true,
+        "reference_margin": 6.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.00418301485478878,
+        "kl": 1.8089631339535117e-05,
+        "top1_equal": true,
+        "reference_margin": 1.265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 19,
+        "max_abs": 0.0322265625,
+        "rms": 0.005502399988472462,
+        "kl": 3.158853360218927e-05,
+        "top1_equal": true,
+        "reference_margin": 0.171875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 19,
+        "max_abs": 0.0234375,
+        "rms": 0.004676362033933401,
+        "kl": 1.0146436579816509e-08,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 17,
+        "max_abs": 0.015625,
+        "rms": 0.004643154796212912,
+        "kl": 1.2419806125762989e-06,
+        "top1_equal": true,
+        "reference_margin": 4.578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 16,
+        "max_abs": 0.015625,
+        "rms": 0.0026219249702990055,
+        "kl": -6.099435267969966e-08,
+        "top1_equal": true,
+        "reference_margin": 6.46875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.0033026672899723053,
+        "kl": 5.498612154042348e-06,
+        "top1_equal": true,
+        "reference_margin": 0.84375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 20,
+        "max_abs": 0.0361328125,
+        "rms": 0.007239001803100109,
+        "kl": -2.8205123570046453e-08,
+        "top1_equal": true,
+        "reference_margin": 8.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 20,
+        "max_abs": 0.015625,
+        "rms": 0.003534868359565735,
+        "kl": -1.4872732378989895e-08,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 18,
+        "max_abs": 0.01953125,
+        "rms": 0.00531444838270545,
+        "kl": 1.361930799248512e-07,
+        "top1_equal": true,
+        "reference_margin": 9.25
+      },
+      {
+        "id": "C-17-00004",
+        "position": 17,
+        "max_abs": 0.015625,
+        "rms": 0.005087163299322128,
+        "kl": -6.832779035903513e-07,
+        "top1_equal": true,
+        "reference_margin": 6.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 6,
+        "max_abs": 0.015625,
+        "rms": 0.002643376588821411,
+        "kl": 3.010878572240472e-05,
+        "top1_equal": true,
+        "reference_margin": 1.65625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 21,
+        "max_abs": 0.0234375,
+        "rms": 0.005018269177526236,
+        "kl": 2.1279342035995796e-05,
+        "top1_equal": true,
+        "reference_margin": 1.71875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 21,
+        "max_abs": 0.03125,
+        "rms": 0.01268593966960907,
+        "kl": 5.635806701320689e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 19,
+        "max_abs": 0.015625,
+        "rms": 0.003653433872386813,
+        "kl": 1.0231602800558903e-06,
+        "top1_equal": true,
+        "reference_margin": 4.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 18,
+        "max_abs": 0.0234375,
+        "rms": 0.008792877197265625,
+        "kl": 1.70101884577889e-06,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.003426486859098077,
+        "kl": 1.7742524505592883e-05,
+        "top1_equal": true,
+        "reference_margin": 2.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 22,
+        "max_abs": 0.0234375,
+        "rms": 0.005091734230518341,
+        "kl": 4.9278055485046934e-06,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 22,
+        "max_abs": 0.0166015625,
+        "rms": 0.003932307008653879,
+        "kl": 1.1835700206574984e-06,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 20,
+        "max_abs": 0.021484375,
+        "rms": 0.0063176644034683704,
+        "kl": 8.889604430351028e-08,
+        "top1_equal": true,
+        "reference_margin": 9.6015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 19,
+        "max_abs": 0.015625,
+        "rms": 0.002610013820230961,
+        "kl": 3.700741217471659e-06,
+        "top1_equal": true,
+        "reference_margin": 6.1875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 8,
+        "max_abs": 0.015625,
+        "rms": 0.005670151207596064,
+        "kl": 6.2819744925946e-06,
+        "top1_equal": true,
+        "reference_margin": 1.984375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 23,
+        "max_abs": 0.0234375,
+        "rms": 0.005268558859825134,
+        "kl": 2.4840657715685666e-05,
+        "top1_equal": true,
+        "reference_margin": 1.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 23,
+        "max_abs": 0.0234375,
+        "rms": 0.0071043348871171474,
+        "kl": 1.4768465916858986e-07,
+        "top1_equal": true,
+        "reference_margin": 7.265625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 21,
+        "max_abs": 0.01953125,
+        "rms": 0.004312815144658089,
+        "kl": 7.583693673041125e-07,
+        "top1_equal": true,
+        "reference_margin": 4.96875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 20,
+        "max_abs": 0.015625,
+        "rms": 0.003856540657579899,
+        "kl": 5.048095772508532e-07,
+        "top1_equal": true,
+        "reference_margin": 6.0703125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.0031725498847663403,
+        "kl": 8.081515261437744e-07,
+        "top1_equal": true,
+        "reference_margin": 3.046875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 24,
+        "max_abs": 0.02734375,
+        "rms": 0.00599230732768774,
+        "kl": 4.993265065422747e-06,
+        "top1_equal": true,
+        "reference_margin": 1.34375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 24,
+        "max_abs": 0.0234375,
+        "rms": 0.00445606280118227,
+        "kl": 3.0934108963265317e-07,
+        "top1_equal": true,
+        "reference_margin": 7.28125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 22,
+        "max_abs": 0.01953125,
+        "rms": 0.004139426164329052,
+        "kl": 4.122274077644761e-09,
+        "top1_equal": true,
+        "reference_margin": 9.9375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 21,
+        "max_abs": 0.015625,
+        "rms": 0.0033440643455833197,
+        "kl": 2.3496540961787105e-06,
+        "top1_equal": true,
+        "reference_margin": 6.140625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 10,
+        "max_abs": 0.015625,
+        "rms": 0.003534382674843073,
+        "kl": 1.588221039128257e-06,
+        "top1_equal": true,
+        "reference_margin": 3.0
+      },
+      {
+        "id": "C-17-00000",
+        "position": 25,
+        "max_abs": 0.0234375,
+        "rms": 0.004020696505904198,
+        "kl": 3.0318162316689268e-05,
+        "top1_equal": true,
+        "reference_margin": 0.765625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 25,
+        "max_abs": 0.02734375,
+        "rms": 0.006473928224295378,
+        "kl": 1.8980858840222936e-07,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 23,
+        "max_abs": 0.015625,
+        "rms": 0.0033655641600489616,
+        "kl": -9.177068704957492e-08,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 22,
+        "max_abs": 0.015625,
+        "rms": 0.0031827054917812347,
+        "kl": 8.672359399497509e-07,
+        "top1_equal": true,
+        "reference_margin": 6.125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 11,
+        "max_abs": 0.015625,
+        "rms": 0.004918441642075777,
+        "kl": 1.558120857225731e-06,
+        "top1_equal": true,
+        "reference_margin": 2.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 26,
+        "max_abs": 0.0234375,
+        "rms": 0.004878806881606579,
+        "kl": 6.7333789957046974e-06,
+        "top1_equal": true,
+        "reference_margin": 3.125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 26,
+        "max_abs": 0.021484375,
+        "rms": 0.005314747337251902,
+        "kl": 9.061982382263523e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 24,
+        "max_abs": 0.01708984375,
+        "rms": 0.004290581680834293,
+        "kl": 2.3200493615149753e-07,
+        "top1_equal": true,
+        "reference_margin": 9.9140625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 23,
+        "max_abs": 0.015625,
+        "rms": 0.0030526502523571253,
+        "kl": 3.829522029263899e-06,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 12,
+        "max_abs": 0.015625,
+        "rms": 0.002853542799130082,
+        "kl": 1.5104149042599602e-06,
+        "top1_equal": true,
+        "reference_margin": 3.9375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 27,
+        "max_abs": 0.03125,
+        "rms": 0.004844937473535538,
+        "kl": 3.0202882044250146e-06,
+        "top1_equal": true,
+        "reference_margin": 3.328125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 27,
+        "max_abs": 0.01953125,
+        "rms": 0.003880108939483762,
+        "kl": 2.250376383017283e-07,
+        "top1_equal": true,
+        "reference_margin": 7.515625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 25,
+        "max_abs": 0.015625,
+        "rms": 0.0032185197342187166,
+        "kl": -1.8269943780069298e-08,
+        "top1_equal": true,
+        "reference_margin": 5.65625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 24,
+        "max_abs": 0.015625,
+        "rms": 0.003495395416393876,
+        "kl": 9.523078006168362e-07,
+        "top1_equal": true,
+        "reference_margin": 6.828125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.0035273111425340176,
+        "kl": 1.9815088307950646e-06,
+        "top1_equal": true,
+        "reference_margin": 4.875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 28,
+        "max_abs": 0.0234375,
+        "rms": 0.0043626041151583195,
+        "kl": -3.271200199606028e-08,
+        "top1_equal": true,
+        "reference_margin": 14.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 28,
+        "max_abs": 0.03125,
+        "rms": 0.01172913983464241,
+        "kl": 2.405694488061272e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 26,
+        "max_abs": 0.0205078125,
+        "rms": 0.004473140928894281,
+        "kl": 2.5821080384957895e-08,
+        "top1_equal": true,
+        "reference_margin": 10.3125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 25,
+        "max_abs": 0.015625,
+        "rms": 0.006151017267256975,
+        "kl": 1.342014002148062e-07,
+        "top1_equal": true,
+        "reference_margin": 6.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 14,
+        "max_abs": 0.015625,
+        "rms": 0.003261002479121089,
+        "kl": 6.754100468242541e-06,
+        "top1_equal": true,
+        "reference_margin": 4.203125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 29,
+        "max_abs": 0.03125,
+        "rms": 0.004834388382732868,
+        "kl": 1.8708373318077065e-05,
+        "top1_equal": true,
+        "reference_margin": 0.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 29,
+        "max_abs": 0.0234375,
+        "rms": 0.004972038324922323,
+        "kl": 2.0705425640699104e-07,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 27,
+        "max_abs": 0.0234375,
+        "rms": 0.0046791620552539825,
+        "kl": 1.6271130220957275e-08,
+        "top1_equal": true,
+        "reference_margin": 5.8125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 26,
+        "max_abs": 0.015625,
+        "rms": 0.004781023133546114,
+        "kl": 7.050848580547608e-07,
+        "top1_equal": true,
+        "reference_margin": 6.828125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 15,
+        "max_abs": 0.015625,
+        "rms": 0.0033975676633417606,
+        "kl": 4.595121936290525e-07,
+        "top1_equal": true,
+        "reference_margin": 4.875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 30,
+        "max_abs": 0.0234375,
+        "rms": 0.004090751986950636,
+        "kl": 1.0842487085938046e-07,
+        "top1_equal": true,
+        "reference_margin": 8.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 30,
+        "max_abs": 0.0234375,
+        "rms": 0.003761628409847617,
+        "kl": -4.1256521399191115e-07,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 28,
+        "max_abs": 0.0177001953125,
+        "rms": 0.0037643585819751024,
+        "kl": 8.283835484235169e-08,
+        "top1_equal": true,
+        "reference_margin": 10.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 27,
+        "max_abs": 0.015625,
+        "rms": 0.0033018949907273054,
+        "kl": 1.0696749086491764e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 16,
+        "max_abs": 0.015625,
+        "rms": 0.00395936518907547,
+        "kl": -3.072054823860526e-07,
+        "top1_equal": true,
+        "reference_margin": 4.75
+      },
+      {
+        "id": "C-17-00000",
+        "position": 31,
+        "max_abs": 0.02734375,
+        "rms": 0.006427489686757326,
+        "kl": 3.0645915103377774e-05,
+        "top1_equal": true,
+        "reference_margin": 0.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 31,
+        "max_abs": 0.0234375,
+        "rms": 0.0037449083756655455,
+        "kl": 4.514602665040002e-07,
+        "top1_equal": true,
+        "reference_margin": 7.53125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 29,
+        "max_abs": 0.015625,
+        "rms": 0.002977933967486024,
+        "kl": 3.0442609499914397e-07,
+        "top1_equal": true,
+        "reference_margin": 5.84375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 28,
+        "max_abs": 0.01171875,
+        "rms": 0.0031893847044557333,
+        "kl": 2.5994950192398392e-08,
+        "top1_equal": true,
+        "reference_margin": 7.03125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 17,
+        "max_abs": 0.015625,
+        "rms": 0.0031867441721260548,
+        "kl": 5.03825049236184e-07,
+        "top1_equal": true,
+        "reference_margin": 4.671875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 32,
+        "max_abs": 0.03125,
+        "rms": 0.004326552152633667,
+        "kl": -5.48381855480784e-08,
+        "top1_equal": true,
+        "reference_margin": 13.78125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 32,
+        "max_abs": 0.0234375,
+        "rms": 0.0037074650172144175,
+        "kl": 2.6746852199721616e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 30,
+        "max_abs": 0.0625,
+        "rms": 0.01578374020755291,
+        "kl": 4.561093192023691e-08,
+        "top1_equal": true,
+        "reference_margin": 10.46875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 29,
+        "max_abs": 0.015625,
+        "rms": 0.005103926174342632,
+        "kl": -1.8211449059890583e-07,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 18,
+        "max_abs": 0.01953125,
+        "rms": 0.007019116077572107,
+        "kl": 1.5453915693797171e-06,
+        "top1_equal": true,
+        "reference_margin": 5.5
+      },
+      {
+        "id": "C-17-00000",
+        "position": 33,
+        "max_abs": 0.03125,
+        "rms": 0.00576585391536355,
+        "kl": 3.4656134175747866e-06,
+        "top1_equal": true,
+        "reference_margin": 1.28125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 33,
+        "max_abs": 0.01953125,
+        "rms": 0.005225382745265961,
+        "kl": 8.85137296791072e-09,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 31,
+        "max_abs": 0.01953125,
+        "rms": 0.005336232483386993,
+        "kl": -9.234292974724667e-08,
+        "top1_equal": true,
+        "reference_margin": 5.875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 30,
+        "max_abs": 0.015625,
+        "rms": 0.003578835166990757,
+        "kl": 4.5381602831184864e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 19,
+        "max_abs": 0.015625,
+        "rms": 0.0033821496181190014,
+        "kl": 6.089433099987218e-07,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 34,
+        "max_abs": 0.03125,
+        "rms": 0.006092679686844349,
+        "kl": 1.2477772543206811e-05,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 34,
+        "max_abs": 0.0234375,
+        "rms": 0.006043990608304739,
+        "kl": -1.3255481690066517e-07,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 32,
+        "max_abs": 0.06640625,
+        "rms": 0.014798925258219242,
+        "kl": 1.0688825113902567e-07,
+        "top1_equal": true,
+        "reference_margin": 10.7265625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 31,
+        "max_abs": 0.0234375,
+        "rms": 0.00886138528585434,
+        "kl": -8.704673746251501e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 20,
+        "max_abs": 0.015625,
+        "rms": 0.0032699056901037693,
+        "kl": 6.38123310636729e-07,
+        "top1_equal": true,
+        "reference_margin": 4.015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 35,
+        "max_abs": 0.0234375,
+        "rms": 0.005017246585339308,
+        "kl": 9.4918149784462e-08,
+        "top1_equal": true,
+        "reference_margin": 3.21875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 35,
+        "max_abs": 0.020751953125,
+        "rms": 0.0041435593739151955,
+        "kl": 8.114167258099769e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 33,
+        "max_abs": 0.01953125,
+        "rms": 0.004878686275333166,
+        "kl": 4.782296514349582e-07,
+        "top1_equal": true,
+        "reference_margin": 6.046875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 32,
+        "max_abs": 0.01953125,
+        "rms": 0.00789341889321804,
+        "kl": 4.09491804020945e-07,
+        "top1_equal": true,
+        "reference_margin": 6.953125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 21,
+        "max_abs": 0.015625,
+        "rms": 0.00439476128667593,
+        "kl": 2.1446621758514084e-06,
+        "top1_equal": true,
+        "reference_margin": 5.265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 36,
+        "max_abs": 0.03125,
+        "rms": 0.007309310603886843,
+        "kl": 2.987562220369e-05,
+        "top1_equal": true,
+        "reference_margin": 1.078125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 36,
+        "max_abs": 0.0234375,
+        "rms": 0.0037181877996772528,
+        "kl": -6.580812623724341e-07,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 34,
+        "max_abs": 0.234375,
+        "rms": 0.06112371385097504,
+        "kl": 5.051109610576532e-07,
+        "top1_equal": true,
+        "reference_margin": 11.59375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 33,
+        "max_abs": 0.015625,
+        "rms": 0.0032167602330446243,
+        "kl": 7.631938387930859e-07,
+        "top1_equal": true,
+        "reference_margin": 6.875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 22,
+        "max_abs": 0.015625,
+        "rms": 0.003667709417641163,
+        "kl": 1.2916448213218246e-06,
+        "top1_equal": true,
+        "reference_margin": 5.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 37,
+        "max_abs": 0.03125,
+        "rms": 0.004946815315634012,
+        "kl": 6.403374754881952e-06,
+        "top1_equal": true,
+        "reference_margin": 0.8125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 37,
+        "max_abs": 0.01953125,
+        "rms": 0.0046749478206038475,
+        "kl": 2.3189670628198655e-08,
+        "top1_equal": true,
+        "reference_margin": 7.609375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 35,
+        "max_abs": 0.02978515625,
+        "rms": 0.005500402767211199,
+        "kl": 3.5890417393602547e-07,
+        "top1_equal": true,
+        "reference_margin": 6.28125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 34,
+        "max_abs": 0.015625,
+        "rms": 0.002862136345356703,
+        "kl": 7.105099939508364e-07,
+        "top1_equal": true,
+        "reference_margin": 6.9375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 23,
+        "max_abs": 0.015625,
+        "rms": 0.0029796853195875883,
+        "kl": 5.934361979598179e-07,
+        "top1_equal": true,
+        "reference_margin": 5.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 38,
+        "max_abs": 0.03125,
+        "rms": 0.005476097576320171,
+        "kl": 9.82795245363377e-06,
+        "top1_equal": true,
+        "reference_margin": 0.671875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 38,
+        "max_abs": 0.0205078125,
+        "rms": 0.004022115841507912,
+        "kl": 4.796714847543626e-07,
+        "top1_equal": true,
+        "reference_margin": 7.625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 36,
+        "max_abs": 0.05859375,
+        "rms": 0.015547264367341995,
+        "kl": -8.454982491912233e-08,
+        "top1_equal": true,
+        "reference_margin": 12.5
+      },
+      {
+        "id": "C-17-00004",
+        "position": 35,
+        "max_abs": 0.01171875,
+        "rms": 0.002682972699403763,
+        "kl": 3.062457381020067e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 24,
+        "max_abs": 0.015625,
+        "rms": 0.003010330954566598,
+        "kl": 2.9845801918781945e-07,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 39,
+        "max_abs": 0.046875,
+        "rms": 0.013624906539916992,
+        "kl": 1.6626741853542626e-05,
+        "top1_equal": true,
+        "reference_margin": 1.875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 39,
+        "max_abs": 0.0224609375,
+        "rms": 0.006500518415123224,
+        "kl": -3.10375185108569e-07,
+        "top1_equal": true,
+        "reference_margin": 7.65625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 37,
+        "max_abs": 0.01611328125,
+        "rms": 0.003227091394364834,
+        "kl": 3.389597225122998e-08,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 36,
+        "max_abs": 0.015625,
+        "rms": 0.0028087811078876257,
+        "kl": 3.9658732475800207e-07,
+        "top1_equal": true,
+        "reference_margin": 7.09375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 25,
+        "max_abs": 0.015625,
+        "rms": 0.0028027629014104605,
+        "kl": 4.886478564003482e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5
+      },
+      {
+        "id": "C-17-00000",
+        "position": 40,
+        "max_abs": 0.03466796875,
+        "rms": 0.008149056695401669,
+        "kl": 3.634584686551534e-07,
+        "top1_equal": true,
+        "reference_margin": 6.015625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 40,
+        "max_abs": 0.0234375,
+        "rms": 0.006526630371809006,
+        "kl": 1.571885377416038e-07,
+        "top1_equal": true,
+        "reference_margin": 7.546875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 38,
+        "max_abs": 0.12109375,
+        "rms": 0.03087151236832142,
+        "kl": 7.097389698174084e-08,
+        "top1_equal": true,
+        "reference_margin": 11.65625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 37,
+        "max_abs": 0.015625,
+        "rms": 0.005051291547715664,
+        "kl": 3.3903233997989446e-08,
+        "top1_equal": true,
+        "reference_margin": 6.9375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 26,
+        "max_abs": 0.015625,
+        "rms": 0.003357451409101486,
+        "kl": 5.478159437188879e-06,
+        "top1_equal": true,
+        "reference_margin": 5.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 41,
+        "max_abs": 0.02734375,
+        "rms": 0.006277018692344427,
+        "kl": 4.811389544556732e-07,
+        "top1_equal": true,
+        "reference_margin": 0.640625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 41,
+        "max_abs": 0.024658203125,
+        "rms": 0.0069532012566924095,
+        "kl": 3.9624478631594684e-07,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 39,
+        "max_abs": 0.01953125,
+        "rms": 0.00474636722356081,
+        "kl": 4.6637040895802784e-08,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 38,
+        "max_abs": 0.015625,
+        "rms": 0.0029402112122625113,
+        "kl": -6.051443506294163e-07,
+        "top1_equal": true,
+        "reference_margin": 6.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 27,
+        "max_abs": 0.0234375,
+        "rms": 0.007469383534044027,
+        "kl": 4.593302946886979e-07,
+        "top1_equal": true,
+        "reference_margin": 6.25
+      },
+      {
+        "id": "C-17-00000",
+        "position": 42,
+        "max_abs": 0.0302734375,
+        "rms": 0.012011377140879631,
+        "kl": 3.5836691836266255e-08,
+        "top1_equal": true,
+        "reference_margin": 10.140625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 42,
+        "max_abs": 0.0390625,
+        "rms": 0.013923672959208488,
+        "kl": -1.3905651030654553e-07,
+        "top1_equal": true,
+        "reference_margin": 7.25
+      },
+      {
+        "id": "C-17-00002",
+        "position": 40,
+        "max_abs": 0.11328125,
+        "rms": 0.03042028099298477,
+        "kl": -1.175776418449459e-07,
+        "top1_equal": true,
+        "reference_margin": 11.6796875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 39,
+        "max_abs": 0.015625,
+        "rms": 0.0027158958837389946,
+        "kl": 6.268182914936915e-07,
+        "top1_equal": true,
+        "reference_margin": 6.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 28,
+        "max_abs": 0.0234375,
+        "rms": 0.004441485740244389,
+        "kl": 7.573805191896099e-07,
+        "top1_equal": true,
+        "reference_margin": 6.375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 43,
+        "max_abs": 0.03125,
+        "rms": 0.007927843369543552,
+        "kl": 6.436386320274323e-05,
+        "top1_equal": true,
+        "reference_margin": 1.0
+      },
+      {
+        "id": "C-17-00001",
+        "position": 43,
+        "max_abs": 0.0234375,
+        "rms": 0.006731207948178053,
+        "kl": 1.1461515896371566e-06,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 41,
+        "max_abs": 0.01953125,
+        "rms": 0.004440915770828724,
+        "kl": -8.817584884468488e-09,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 40,
+        "max_abs": 0.01171875,
+        "rms": 0.0030144453048706055,
+        "kl": -9.971859071811195e-08,
+        "top1_equal": true,
+        "reference_margin": 7.109375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 29,
+        "max_abs": 0.015625,
+        "rms": 0.0027812153566628695,
+        "kl": 3.330209437990561e-06,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 44,
+        "max_abs": 0.0205078125,
+        "rms": 0.00433516688644886,
+        "kl": 8.434803021373227e-06,
+        "top1_equal": true,
+        "reference_margin": 0.890625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 44,
+        "max_abs": 0.021484375,
+        "rms": 0.004036755301058292,
+        "kl": -2.3710212815331033e-07,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 42,
+        "max_abs": 0.1171875,
+        "rms": 0.03001541830599308,
+        "kl": 2.1407413441920653e-07,
+        "top1_equal": true,
+        "reference_margin": 11.7578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 41,
+        "max_abs": 0.0234375,
+        "rms": 0.010386382229626179,
+        "kl": 2.9883267416153103e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 30,
+        "max_abs": 0.015625,
+        "rms": 0.00492439977824688,
+        "kl": -7.652997737750411e-07,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 45,
+        "max_abs": 0.03125,
+        "rms": 0.004567749332636595,
+        "kl": 2.7164523999090306e-05,
+        "top1_equal": true,
+        "reference_margin": 0.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 45,
+        "max_abs": 0.0234375,
+        "rms": 0.005229881498962641,
+        "kl": -1.8291245851287385e-07,
+        "top1_equal": true,
+        "reference_margin": 7.359375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 43,
+        "max_abs": 0.037109375,
+        "rms": 0.00591810280457139,
+        "kl": 3.990007257925754e-08,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 42,
+        "max_abs": 0.015625,
+        "rms": 0.004250353202223778,
+        "kl": 5.707843229174614e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 31,
+        "max_abs": 0.015625,
+        "rms": 0.0036975578404963017,
+        "kl": 1.7347829270875081e-06,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 46,
+        "max_abs": 0.025390625,
+        "rms": 0.00618234695866704,
+        "kl": 3.216755430912599e-05,
+        "top1_equal": true,
+        "reference_margin": 0.53125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 46,
+        "max_abs": 0.0234375,
+        "rms": 0.007258065510541201,
+        "kl": -2.5659994662419194e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 44,
+        "max_abs": 0.05859375,
+        "rms": 0.013065850362181664,
+        "kl": -3.104646850715653e-08,
+        "top1_equal": true,
+        "reference_margin": 13.1640625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 43,
+        "max_abs": 0.015625,
+        "rms": 0.005821176804602146,
+        "kl": -4.015196282125544e-07,
+        "top1_equal": true,
+        "reference_margin": 7.171875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 32,
+        "max_abs": 0.015625,
+        "rms": 0.003896093927323818,
+        "kl": 6.18597368884366e-07,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 47,
+        "max_abs": 0.0234375,
+        "rms": 0.004866238683462143,
+        "kl": 2.083544859488029e-05,
+        "top1_equal": true,
+        "reference_margin": 1.75
+      },
+      {
+        "id": "C-17-00001",
+        "position": 47,
+        "max_abs": 0.021484375,
+        "rms": 0.003870182204991579,
+        "kl": 1.3422668416751549e-06,
+        "top1_equal": true,
+        "reference_margin": 7.34375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 45,
+        "max_abs": 0.0234375,
+        "rms": 0.005862729623913765,
+        "kl": 9.647385468269931e-08,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 44,
+        "max_abs": 0.015625,
+        "rms": 0.0032769523095339537,
+        "kl": 5.761921784142032e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 33,
+        "max_abs": 0.015625,
+        "rms": 0.0035572941415011883,
+        "kl": 2.2135270683065755e-07,
+        "top1_equal": true,
+        "reference_margin": 6.34375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 48,
+        "max_abs": 0.03125,
+        "rms": 0.006436023395508528,
+        "kl": 6.29502778792812e-08,
+        "top1_equal": true,
+        "reference_margin": 10.125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 48,
+        "max_abs": 0.0234375,
+        "rms": 0.004068390000611544,
+        "kl": 2.611820946185617e-07,
+        "top1_equal": true,
+        "reference_margin": 7.15625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 46,
+        "max_abs": 0.08203125,
+        "rms": 0.019162947311997414,
+        "kl": -1.7746293679010705e-07,
+        "top1_equal": true,
+        "reference_margin": 13.3671875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 45,
+        "max_abs": 0.015625,
+        "rms": 0.002857961691915989,
+        "kl": 1.6667983970819478e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 34,
+        "max_abs": 0.015625,
+        "rms": 0.002836786676198244,
+        "kl": 3.599095634854166e-07,
+        "top1_equal": true,
+        "reference_margin": 6.25
+      },
+      {
+        "id": "C-17-00000",
+        "position": 49,
+        "max_abs": 0.021484375,
+        "rms": 0.004196600057184696,
+        "kl": 1.8708477000473067e-05,
+        "top1_equal": true,
+        "reference_margin": 1.5
+      },
+      {
+        "id": "C-17-00001",
+        "position": 49,
+        "max_abs": 0.01708984375,
+        "rms": 0.003661535447463393,
+        "kl": -7.352963393714163e-08,
+        "top1_equal": true,
+        "reference_margin": 6.984375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 47,
+        "max_abs": 0.02349853515625,
+        "rms": 0.005993688944727182,
+        "kl": -1.576719199647414e-09,
+        "top1_equal": true,
+        "reference_margin": 6.90625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 46,
+        "max_abs": 0.015625,
+        "rms": 0.0028216287028044462,
+        "kl": 1.731714860397915e-08,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 35,
+        "max_abs": 0.015625,
+        "rms": 0.0033555489499121904,
+        "kl": 4.882516577708884e-07,
+        "top1_equal": true,
+        "reference_margin": 6.203125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 50,
+        "max_abs": 0.0234375,
+        "rms": 0.005455239210277796,
+        "kl": 1.5032402188808192e-05,
+        "top1_equal": true,
+        "reference_margin": 3.40625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 50,
+        "max_abs": 0.0234375,
+        "rms": 0.007146964315325022,
+        "kl": -5.593850573859527e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 48,
+        "max_abs": 0.109375,
+        "rms": 0.028759833425283432,
+        "kl": 8.142114893416874e-08,
+        "top1_equal": true,
+        "reference_margin": 12.453125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 47,
+        "max_abs": 0.01953125,
+        "rms": 0.007288716267794371,
+        "kl": -3.5526227293303236e-08,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 36,
+        "max_abs": 0.015625,
+        "rms": 0.0034412310924381018,
+        "kl": 1.720116415526718e-06,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 51,
+        "max_abs": 0.02490234375,
+        "rms": 0.005465674679726362,
+        "kl": 4.317056664149277e-06,
+        "top1_equal": true,
+        "reference_margin": 0.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 51,
+        "max_abs": 0.03125,
+        "rms": 0.0041851443238556385,
+        "kl": 1.6602693904133048e-06,
+        "top1_equal": true,
+        "reference_margin": 7.203125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 49,
+        "max_abs": 0.02734375,
+        "rms": 0.00855519063770771,
+        "kl": -3.834543349512387e-08,
+        "top1_equal": true,
+        "reference_margin": 7.15625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 48,
+        "max_abs": 0.015625,
+        "rms": 0.0033424978610128164,
+        "kl": -9.853556548478082e-08,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00015",
+        "position": 37,
+        "max_abs": 0.015625,
+        "rms": 0.003365348791703582,
+        "kl": 1.6981880435196217e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 52,
+        "max_abs": 0.0234375,
+        "rms": 0.004369670525193214,
+        "kl": -6.220545145652068e-08,
+        "top1_equal": true,
+        "reference_margin": 11.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 52,
+        "max_abs": 0.0234375,
+        "rms": 0.005449887830764055,
+        "kl": 2.4271963638966554e-07,
+        "top1_equal": true,
+        "reference_margin": 7.359375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 50,
+        "max_abs": 0.021484375,
+        "rms": 0.004389626439660788,
+        "kl": 1.274100611681206e-07,
+        "top1_equal": true,
+        "reference_margin": 11.625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 49,
+        "max_abs": 0.015625,
+        "rms": 0.004167380277067423,
+        "kl": 2.0287388906581327e-06,
+        "top1_equal": true,
+        "reference_margin": 7.625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 38,
+        "max_abs": 0.015625,
+        "rms": 0.003227735636755824,
+        "kl": -4.945069349560072e-07,
+        "top1_equal": true,
+        "reference_margin": 6.640625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 53,
+        "max_abs": 0.03125,
+        "rms": 0.0051261368207633495,
+        "kl": 4.8141628212761134e-05,
+        "top1_equal": true,
+        "reference_margin": 0.59375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 53,
+        "max_abs": 0.01953125,
+        "rms": 0.004017494153231382,
+        "kl": 2.647128383159725e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 51,
+        "max_abs": 0.01953125,
+        "rms": 0.004550179000943899,
+        "kl": -6.119730500131482e-08,
+        "top1_equal": true,
+        "reference_margin": 7.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 50,
+        "max_abs": 0.015625,
+        "rms": 0.0034987584222108126,
+        "kl": 1.8285936675965786e-07,
+        "top1_equal": true,
+        "reference_margin": 7.734375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 39,
+        "max_abs": 0.0234375,
+        "rms": 0.006738101132214069,
+        "kl": 2.8742306312778965e-07,
+        "top1_equal": true,
+        "reference_margin": 6.671875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 54,
+        "max_abs": 0.02587890625,
+        "rms": 0.005335341207683086,
+        "kl": 4.3973527681373525e-06,
+        "top1_equal": true,
+        "reference_margin": 0.390625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 54,
+        "max_abs": 0.015625,
+        "rms": 0.003387440461665392,
+        "kl": 7.048807759701958e-08,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 52,
+        "max_abs": 0.046875,
+        "rms": 0.012221239507198334,
+        "kl": -8.433696052634332e-08,
+        "top1_equal": true,
+        "reference_margin": 12.328125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 51,
+        "max_abs": 0.01171875,
+        "rms": 0.0026813410222530365,
+        "kl": 4.744618564700431e-08,
+        "top1_equal": true,
+        "reference_margin": 7.6875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 40,
+        "max_abs": 0.015625,
+        "rms": 0.004382617771625519,
+        "kl": -7.543712854385376e-08,
+        "top1_equal": true,
+        "reference_margin": 6.65625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 55,
+        "max_abs": 0.03125,
+        "rms": 0.004181618802249432,
+        "kl": 1.2743334082188085e-05,
+        "top1_equal": true,
+        "reference_margin": 2.203125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 55,
+        "max_abs": 0.0234375,
+        "rms": 0.00520692765712738,
+        "kl": -9.93348976408015e-08,
+        "top1_equal": true,
+        "reference_margin": 7.34375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 53,
+        "max_abs": 0.0234375,
+        "rms": 0.006982493679970503,
+        "kl": 1.3789818353870942e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 52,
+        "max_abs": 0.015625,
+        "rms": 0.005162984132766724,
+        "kl": 3.0357352898136014e-07,
+        "top1_equal": true,
+        "reference_margin": 7.71875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 41,
+        "max_abs": 0.015625,
+        "rms": 0.0030969311483204365,
+        "kl": -5.269171765576175e-08,
+        "top1_equal": true,
+        "reference_margin": 6.578125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 56,
+        "max_abs": 0.0390625,
+        "rms": 0.007222761865705252,
+        "kl": 1.1125534001621418e-05,
+        "top1_equal": true,
+        "reference_margin": 2.640625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 56,
+        "max_abs": 0.01953125,
+        "rms": 0.004353721160441637,
+        "kl": 3.6046685636392795e-08,
+        "top1_equal": true,
+        "reference_margin": 7.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 54,
+        "max_abs": 0.03125,
+        "rms": 0.006504272110760212,
+        "kl": -2.157080416509416e-07,
+        "top1_equal": true,
+        "reference_margin": 12.046875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 53,
+        "max_abs": 0.015625,
+        "rms": 0.004980150610208511,
+        "kl": -7.432436177623458e-08,
+        "top1_equal": true,
+        "reference_margin": 7.78125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 42,
+        "max_abs": 0.015625,
+        "rms": 0.004205448552966118,
+        "kl": 5.253996278042905e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 57,
+        "max_abs": 0.03125,
+        "rms": 0.0060195098631083965,
+        "kl": 7.905369784566574e-06,
+        "top1_equal": true,
+        "reference_margin": 3.109375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 57,
+        "max_abs": 0.021484375,
+        "rms": 0.004099392332136631,
+        "kl": 6.299454184954811e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 55,
+        "max_abs": 0.01953125,
+        "rms": 0.006151263136416674,
+        "kl": -1.0661982940973758e-07,
+        "top1_equal": true,
+        "reference_margin": 7.578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 54,
+        "max_abs": 0.015625,
+        "rms": 0.003963143099099398,
+        "kl": -9.843779480434023e-08,
+        "top1_equal": true,
+        "reference_margin": 7.890625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 43,
+        "max_abs": 0.015625,
+        "rms": 0.003060094779357314,
+        "kl": 5.277144623505592e-07,
+        "top1_equal": true,
+        "reference_margin": 6.625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 58,
+        "max_abs": 0.02734375,
+        "rms": 0.005649853032082319,
+        "kl": 8.2050210039597e-06,
+        "top1_equal": true,
+        "reference_margin": 2.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 58,
+        "max_abs": 0.01953125,
+        "rms": 0.0048675634898245335,
+        "kl": 6.200076541063027e-08,
+        "top1_equal": true,
+        "reference_margin": 7.484375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 56,
+        "max_abs": 0.03125,
+        "rms": 0.00636390782892704,
+        "kl": 1.5118126839297474e-07,
+        "top1_equal": true,
+        "reference_margin": 11.9296875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 55,
+        "max_abs": 0.015625,
+        "rms": 0.002803174313157797,
+        "kl": 3.65140749636339e-07,
+        "top1_equal": true,
+        "reference_margin": 7.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 44,
+        "max_abs": 0.015625,
+        "rms": 0.0036814468912780285,
+        "kl": 6.974323696340434e-08,
+        "top1_equal": true,
+        "reference_margin": 6.703125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 59,
+        "max_abs": 0.03125,
+        "rms": 0.005795542150735855,
+        "kl": 2.072384813800454e-05,
+        "top1_equal": true,
+        "reference_margin": 2.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 59,
+        "max_abs": 0.0234375,
+        "rms": 0.005412721075117588,
+        "kl": -6.399062613127171e-08,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 57,
+        "max_abs": 0.0234375,
+        "rms": 0.003599159885197878,
+        "kl": -1.254588539723045e-07,
+        "top1_equal": true,
+        "reference_margin": 7.546875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 56,
+        "max_abs": 0.015625,
+        "rms": 0.005105551797896624,
+        "kl": 2.851170393114444e-07,
+        "top1_equal": true,
+        "reference_margin": 7.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 45,
+        "max_abs": 0.015625,
+        "rms": 0.006228866055607796,
+        "kl": 8.938686733017676e-07,
+        "top1_equal": true,
+        "reference_margin": 6.734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 60,
+        "max_abs": 0.02734375,
+        "rms": 0.00639518816024065,
+        "kl": 2.8100197596359067e-05,
+        "top1_equal": true,
+        "reference_margin": 1.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 60,
+        "max_abs": 0.03125,
+        "rms": 0.007114208769053221,
+        "kl": 1.7937509255716577e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 58,
+        "max_abs": 0.0322265625,
+        "rms": 0.0070825545117259026,
+        "kl": 8.49749426379276e-08,
+        "top1_equal": true,
+        "reference_margin": 13.109375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 57,
+        "max_abs": 0.015625,
+        "rms": 0.005566737614572048,
+        "kl": -9.77712488747784e-08,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 46,
+        "max_abs": 0.015625,
+        "rms": 0.0038657307159155607,
+        "kl": 2.316276095370995e-07,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.0042726630344986916,
+        "kl": 4.7326338972197846e-06,
+        "top1_equal": true,
+        "reference_margin": 3.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.005582411773502827,
+        "kl": 5.737088031310122e-07,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 59,
+        "max_abs": 0.01849365234375,
+        "rms": 0.004724133759737015,
+        "kl": 8.98031942142552e-08,
+        "top1_equal": true,
+        "reference_margin": 7.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 58,
+        "max_abs": 0.01171875,
+        "rms": 0.00311104953289032,
+        "kl": -2.697391039419017e-07,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 47,
+        "max_abs": 0.01953125,
+        "rms": 0.007061005104333162,
+        "kl": 4.972648639522959e-07,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 62,
+        "max_abs": 0.021484375,
+        "rms": 0.004549686796963215,
+        "kl": 6.905777354404563e-06,
+        "top1_equal": true,
+        "reference_margin": 2.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 62,
+        "max_abs": 0.02734375,
+        "rms": 0.009691620245575905,
+        "kl": 1.873340238489618e-07,
+        "top1_equal": true,
+        "reference_margin": 7.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 60,
+        "max_abs": 0.06640625,
+        "rms": 0.016901245340704918,
+        "kl": -1.1986253412032966e-07,
+        "top1_equal": true,
+        "reference_margin": 12.171875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 59,
+        "max_abs": 0.01171875,
+        "rms": 0.0033043529838323593,
+        "kl": -1.182996811621706e-08,
+        "top1_equal": true,
+        "reference_margin": 7.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 48,
+        "max_abs": 0.015625,
+        "rms": 0.006960939150303602,
+        "kl": -3.3908690966200083e-07,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 63,
+        "max_abs": 0.02734375,
+        "rms": 0.005013450980186462,
+        "kl": 8.224219527619425e-06,
+        "top1_equal": true,
+        "reference_margin": 0.0
+      },
+      {
+        "id": "C-17-00001",
+        "position": 63,
+        "max_abs": 0.03125,
+        "rms": 0.008124561980366707,
+        "kl": 2.0992292775190435e-06,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.008839493617415428,
+        "kl": -8.388749961341091e-08,
+        "top1_equal": true,
+        "reference_margin": 8.125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 60,
+        "max_abs": 0.015625,
+        "rms": 0.005206061061471701,
+        "kl": 8.608974439994199e-07,
+        "top1_equal": true,
+        "reference_margin": 7.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 49,
+        "max_abs": 0.015625,
+        "rms": 0.0028368583880364895,
+        "kl": -4.79562487498697e-08,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 62,
+        "max_abs": 0.04296875,
+        "rms": 0.00974209513515234,
+        "kl": -1.534807410052963e-07,
+        "top1_equal": true,
+        "reference_margin": 12.109375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 61,
+        "max_abs": 0.015625,
+        "rms": 0.004658178426325321,
+        "kl": -4.425712631928036e-07,
+        "top1_equal": true,
+        "reference_margin": 7.90625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 50,
+        "max_abs": 0.015625,
+        "rms": 0.0031648725271224976,
+        "kl": 3.57445230747544e-07,
+        "top1_equal": true,
+        "reference_margin": 7.125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 63,
+        "max_abs": 0.017578125,
+        "rms": 0.0042902883142232895,
+        "kl": -3.83835541128974e-08,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 62,
+        "max_abs": 0.015625,
+        "rms": 0.003754424164071679,
+        "kl": -9.569106396156712e-08,
+        "top1_equal": true,
+        "reference_margin": 7.890625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 51,
+        "max_abs": 0.0234375,
+        "rms": 0.007749131880700588,
+        "kl": 1.0842186384252273e-06,
+        "top1_equal": true,
+        "reference_margin": 7.09375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 63,
+        "max_abs": 0.015625,
+        "rms": 0.0030315660405904055,
+        "kl": 8.696356417203788e-07,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 52,
+        "max_abs": 0.015625,
+        "rms": 0.0030630878172814846,
+        "kl": -2.9009788704570383e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 53,
+        "max_abs": 0.015625,
+        "rms": 0.0030910568311810493,
+        "kl": 1.8035620996670332e-07,
+        "top1_equal": true,
+        "reference_margin": 7.140625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 54,
+        "max_abs": 0.015625,
+        "rms": 0.003741974476724863,
+        "kl": 1.306350441154791e-06,
+        "top1_equal": true,
+        "reference_margin": 7.25
+      },
+      {
+        "id": "C-17-00015",
+        "position": 55,
+        "max_abs": 0.01953125,
+        "rms": 0.006491100415587425,
+        "kl": 6.179570846143179e-07,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 56,
+        "max_abs": 0.015625,
+        "rms": 0.003414274426177144,
+        "kl": 7.730900506430771e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 57,
+        "max_abs": 0.009765625,
+        "rms": 0.002567123156040907,
+        "kl": 2.1719810661124939e-07,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 58,
+        "max_abs": 0.015625,
+        "rms": 0.002897687954828143,
+        "kl": 8.980719456985753e-08,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 59,
+        "max_abs": 0.015625,
+        "rms": 0.0032813933212310076,
+        "kl": 1.0263704552926356e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 60,
+        "max_abs": 0.015625,
+        "rms": 0.004777506925165653,
+        "kl": -1.0960843610519078e-07,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.006992039270699024,
+        "kl": -3.682725946418941e-08,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 62,
+        "max_abs": 0.01171875,
+        "rms": 0.003482659114524722,
+        "kl": 1.1910674402315635e-07,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 63,
+        "max_abs": 0.015625,
+        "rms": 0.0030806767754256725,
+        "kl": 1.4895849176355114e-07,
+        "top1_equal": true,
+        "reference_margin": 7.28125
+      }
+    ],
+    "passed": false
+  },
+  "combined": {
+    "positions": 320,
+    "max_abs": 0.2421875,
+    "max_rms": 0.055228158831596375,
+    "mean_kl": 4.721386598686983e-06,
+    "top1_agreement": 0.996875,
+    "rows": [
+      {
+        "id": "C-17-00000",
+        "position": 0,
+        "max_abs": 0.0078125,
+        "rms": 0.0010502258082851768,
+        "kl": 6.32944647804834e-08,
+        "top1_equal": true,
+        "reference_margin": 0.9765625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 0,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.1875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 1,
+        "max_abs": 0.0078125,
+        "rms": 0.0011281277984380722,
+        "kl": 1.8801897567755077e-06,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 1,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 0.7265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 2,
+        "max_abs": 0.0078125,
+        "rms": 0.0010650281328707933,
+        "kl": -5.051565921121437e-08,
+        "top1_equal": true,
+        "reference_margin": 1.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 2,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 2.078125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 0,
+        "max_abs": 0.015625,
+        "rms": 0.0032709380611777306,
+        "kl": 5.354086169973016e-06,
+        "top1_equal": true,
+        "reference_margin": 0.6328125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 3,
+        "max_abs": 0.03125,
+        "rms": 0.006158851087093353,
+        "kl": 2.3077951482264325e-05,
+        "top1_equal": true,
+        "reference_margin": 1.84375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 3,
+        "max_abs": 0.0,
+        "rms": 0.0,
+        "kl": 0.0,
+        "top1_equal": true,
+        "reference_margin": 2.125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 1,
+        "max_abs": 0.015625,
+        "rms": 0.0032294888515025377,
+        "kl": 1.474305463489145e-05,
+        "top1_equal": true,
+        "reference_margin": 0.3203125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 0,
+        "max_abs": 0.015625,
+        "rms": 0.0032007177360355854,
+        "kl": 6.888833922857884e-06,
+        "top1_equal": true,
+        "reference_margin": 0.09375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 4,
+        "max_abs": 0.025390625,
+        "rms": 0.007145668845623732,
+        "kl": 2.6851585062104277e-05,
+        "top1_equal": true,
+        "reference_margin": 0.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.005014926660805941,
+        "kl": 3.8139987736940384e-06,
+        "top1_equal": true,
+        "reference_margin": 3.21875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 2,
+        "max_abs": 0.015625,
+        "rms": 0.0030929914209991693,
+        "kl": 6.435260729631409e-06,
+        "top1_equal": true,
+        "reference_margin": 0.453125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 1,
+        "max_abs": 0.015625,
+        "rms": 0.00580989895388484,
+        "kl": 7.129536243155599e-06,
+        "top1_equal": true,
+        "reference_margin": 0.015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 5,
+        "max_abs": 0.01953125,
+        "rms": 0.004356256686151028,
+        "kl": 8.591901519139356e-07,
+        "top1_equal": true,
+        "reference_margin": 2.28125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.0033344514667987823,
+        "kl": 1.4398159692063928e-05,
+        "top1_equal": true,
+        "reference_margin": 4.640625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.004388800822198391,
+        "kl": 1.9054969015996903e-05,
+        "top1_equal": true,
+        "reference_margin": 0.828125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 2,
+        "max_abs": 0.015625,
+        "rms": 0.003485660068690777,
+        "kl": 2.2974149032961577e-05,
+        "top1_equal": true,
+        "reference_margin": 0.75
+      },
+      {
+        "id": "C-17-00000",
+        "position": 6,
+        "max_abs": 0.0234375,
+        "rms": 0.004995078779757023,
+        "kl": 2.6311814508517273e-05,
+        "top1_equal": true,
+        "reference_margin": 1.546875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 6,
+        "max_abs": 0.0234375,
+        "rms": 0.004675335716456175,
+        "kl": 4.723493475466967e-06,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 4,
+        "max_abs": 0.0234375,
+        "rms": 0.007066464051604271,
+        "kl": 2.063377178274095e-05,
+        "top1_equal": true,
+        "reference_margin": 2.203125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.0052199093624949455,
+        "kl": 6.212896551005542e-06,
+        "top1_equal": true,
+        "reference_margin": 2.8125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 7,
+        "max_abs": 0.01953125,
+        "rms": 0.004755347967147827,
+        "kl": 2.8745234885718673e-05,
+        "top1_equal": true,
+        "reference_margin": 1.296875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.00342731480486691,
+        "kl": 1.3544913599616848e-06,
+        "top1_equal": true,
+        "reference_margin": 6.09375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 5,
+        "max_abs": 0.01953125,
+        "rms": 0.004447585437446833,
+        "kl": 1.1415105291234795e-05,
+        "top1_equal": true,
+        "reference_margin": 1.375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.004031462129205465,
+        "kl": 2.230651443824172e-05,
+        "top1_equal": true,
+        "reference_margin": 1.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 8,
+        "max_abs": 0.03125,
+        "rms": 0.005177308805286884,
+        "kl": 1.5422600654346752e-06,
+        "top1_equal": true,
+        "reference_margin": 2.875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 8,
+        "max_abs": 0.017578125,
+        "rms": 0.003964108880609274,
+        "kl": 5.806059562019072e-07,
+        "top1_equal": true,
+        "reference_margin": 6.1875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 6,
+        "max_abs": 0.0224609375,
+        "rms": 0.007538512349128723,
+        "kl": 2.949989720946178e-06,
+        "top1_equal": true,
+        "reference_margin": 5.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 5,
+        "max_abs": 0.01171875,
+        "rms": 0.0028133534360677004,
+        "kl": 3.477602149359882e-06,
+        "top1_equal": true,
+        "reference_margin": 3.2734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 9,
+        "max_abs": 0.0234375,
+        "rms": 0.004375582095235586,
+        "kl": 1.664063529460691e-05,
+        "top1_equal": true,
+        "reference_margin": 0.703125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.0031148057896643877,
+        "kl": 1.0516705515328795e-06,
+        "top1_equal": true,
+        "reference_margin": 6.6171875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 7,
+        "max_abs": 0.0234375,
+        "rms": 0.0065108370035886765,
+        "kl": -5.52832034372841e-07,
+        "top1_equal": true,
+        "reference_margin": 2.71875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 6,
+        "max_abs": 0.015625,
+        "rms": 0.0030171459075063467,
+        "kl": 2.985858009196818e-05,
+        "top1_equal": true,
+        "reference_margin": 3.921875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 10,
+        "max_abs": 0.03125,
+        "rms": 0.010016046464443207,
+        "kl": 8.402784260397311e-06,
+        "top1_equal": true,
+        "reference_margin": 4.171875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 10,
+        "max_abs": 0.01953125,
+        "rms": 0.004080443177372217,
+        "kl": 1.8736163838184439e-06,
+        "top1_equal": true,
+        "reference_margin": 6.546875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 8,
+        "max_abs": 0.0234375,
+        "rms": 0.007968029007315636,
+        "kl": -1.120752131100744e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.0035113415215164423,
+        "kl": 2.363111707381904e-05,
+        "top1_equal": true,
+        "reference_margin": 4.4921875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 11,
+        "max_abs": 0.03125,
+        "rms": 0.005252895411103964,
+        "kl": 8.516642992617562e-06,
+        "top1_equal": true,
+        "reference_margin": 1.328125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 11,
+        "max_abs": 0.01953125,
+        "rms": 0.005113284569233656,
+        "kl": 6.8098415795248e-07,
+        "top1_equal": true,
+        "reference_margin": 6.75
+      },
+      {
+        "id": "C-17-00002",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.0033158143050968647,
+        "kl": 5.705818466594792e-07,
+        "top1_equal": true,
+        "reference_margin": 3.171875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 8,
+        "max_abs": 0.01953125,
+        "rms": 0.007903368212282658,
+        "kl": 9.860232239589095e-06,
+        "top1_equal": true,
+        "reference_margin": 4.4765625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 12,
+        "max_abs": 0.03125,
+        "rms": 0.004822659306228161,
+        "kl": 2.4994827185764734e-07,
+        "top1_equal": true,
+        "reference_margin": 1.9375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 12,
+        "max_abs": 0.0234375,
+        "rms": 0.0049792565405368805,
+        "kl": -3.5974790080217645e-07,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 10,
+        "max_abs": 0.0234375,
+        "rms": 0.005261952523142099,
+        "kl": -3.513204660521296e-08,
+        "top1_equal": true,
+        "reference_margin": 8.1015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 9,
+        "max_abs": 0.01171875,
+        "rms": 0.0027641509659588337,
+        "kl": 4.095686563232448e-07,
+        "top1_equal": true,
+        "reference_margin": 5.28125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 13,
+        "max_abs": 0.03125,
+        "rms": 0.006252643186599016,
+        "kl": 7.787145477777813e-06,
+        "top1_equal": true,
+        "reference_margin": 3.5
+      },
+      {
+        "id": "C-17-00001",
+        "position": 13,
+        "max_abs": 0.01953125,
+        "rms": 0.004833225626498461,
+        "kl": 2.5263852876378223e-07,
+        "top1_equal": true,
+        "reference_margin": 7.203125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 11,
+        "max_abs": 0.015625,
+        "rms": 0.0031376900151371956,
+        "kl": 3.873406058119144e-06,
+        "top1_equal": true,
+        "reference_margin": 3.71875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 10,
+        "max_abs": 0.015625,
+        "rms": 0.005087255500257015,
+        "kl": 1.0146526619791985e-05,
+        "top1_equal": true,
+        "reference_margin": 5.6875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 14,
+        "max_abs": 0.03125,
+        "rms": 0.0052656205371022224,
+        "kl": 1.0831497093022335e-05,
+        "top1_equal": true,
+        "reference_margin": 0.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 14,
+        "max_abs": 0.03125,
+        "rms": 0.005323263816535473,
+        "kl": 5.858605618414003e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 12,
+        "max_abs": 0.03857421875,
+        "rms": 0.011677137576043606,
+        "kl": 2.6133875508094206e-07,
+        "top1_equal": true,
+        "reference_margin": 8.984375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 11,
+        "max_abs": 0.015625,
+        "rms": 0.003138983389362693,
+        "kl": -2.0548977772705257e-06,
+        "top1_equal": true,
+        "reference_margin": 5.7109375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 0,
+        "max_abs": 0.015625,
+        "rms": 0.003248389344662428,
+        "kl": 9.601979400031269e-06,
+        "top1_equal": true,
+        "reference_margin": 0.2734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 15,
+        "max_abs": 0.0234375,
+        "rms": 0.0049483804032206535,
+        "kl": 2.9053106118226424e-05,
+        "top1_equal": true,
+        "reference_margin": 1.515625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 15,
+        "max_abs": 0.0234375,
+        "rms": 0.005644384305924177,
+        "kl": 8.771216926106717e-07,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.003240667749196291,
+        "kl": -8.512229499046953e-08,
+        "top1_equal": true,
+        "reference_margin": 4.25
+      },
+      {
+        "id": "C-17-00004",
+        "position": 12,
+        "max_abs": 0.015625,
+        "rms": 0.0035396513994783163,
+        "kl": 7.525486580561846e-07,
+        "top1_equal": true,
+        "reference_margin": 6.21875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 1,
+        "max_abs": 0.015625,
+        "rms": 0.0034795089159160852,
+        "kl": 7.072128937579691e-06,
+        "top1_equal": true,
+        "reference_margin": 0.6015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 16,
+        "max_abs": 0.03125,
+        "rms": 0.00788577925413847,
+        "kl": 2.3890370357548818e-05,
+        "top1_equal": true,
+        "reference_margin": 0.390625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 16,
+        "max_abs": 0.0234375,
+        "rms": 0.005251460243016481,
+        "kl": 2.4152336663973983e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 14,
+        "max_abs": 0.0234375,
+        "rms": 0.006286153104156256,
+        "kl": -2.3840013341214217e-07,
+        "top1_equal": true,
+        "reference_margin": 9.078125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 13,
+        "max_abs": 0.015625,
+        "rms": 0.002760703442618251,
+        "kl": -5.291583420330426e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5
+      },
+      {
+        "id": "C-17-00015",
+        "position": 2,
+        "max_abs": 0.015625,
+        "rms": 0.004385160747915506,
+        "kl": 2.699888136703521e-05,
+        "top1_equal": false,
+        "reference_margin": 0.0
+      },
+      {
+        "id": "C-17-00000",
+        "position": 17,
+        "max_abs": 0.02734375,
+        "rms": 0.005519503727555275,
+        "kl": 6.610203854506835e-05,
+        "top1_equal": true,
+        "reference_margin": 0.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 17,
+        "max_abs": 0.0234375,
+        "rms": 0.004805722739547491,
+        "kl": 7.031349014141597e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 15,
+        "max_abs": 0.015625,
+        "rms": 0.003331596963107586,
+        "kl": 1.7584861780051142e-06,
+        "top1_equal": true,
+        "reference_margin": 4.421875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 14,
+        "max_abs": 0.015625,
+        "rms": 0.00291873118840158,
+        "kl": 8.165302460838575e-07,
+        "top1_equal": true,
+        "reference_margin": 6.15625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 3,
+        "max_abs": 0.015625,
+        "rms": 0.0029228206258267164,
+        "kl": 9.573008355800994e-06,
+        "top1_equal": true,
+        "reference_margin": 1.28125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 18,
+        "max_abs": 0.02734375,
+        "rms": 0.004986380226910114,
+        "kl": 5.03120588746242e-07,
+        "top1_equal": true,
+        "reference_margin": 5.96875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 18,
+        "max_abs": 0.01953125,
+        "rms": 0.0043788813054561615,
+        "kl": 1.8414275473332964e-06,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 16,
+        "max_abs": 0.01953125,
+        "rms": 0.004265766125172377,
+        "kl": -1.665242166382086e-08,
+        "top1_equal": true,
+        "reference_margin": 9.09375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 15,
+        "max_abs": 0.015625,
+        "rms": 0.003051232313737273,
+        "kl": -7.155197181418771e-07,
+        "top1_equal": true,
+        "reference_margin": 6.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 4,
+        "max_abs": 0.015625,
+        "rms": 0.005135413724929094,
+        "kl": 2.7906280593015254e-05,
+        "top1_equal": true,
+        "reference_margin": 1.265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 19,
+        "max_abs": 0.02734375,
+        "rms": 0.006597790401428938,
+        "kl": 1.3242232853372116e-05,
+        "top1_equal": true,
+        "reference_margin": 0.171875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 19,
+        "max_abs": 0.0234375,
+        "rms": 0.004757769871503115,
+        "kl": 2.454382865835214e-07,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 17,
+        "max_abs": 0.021484375,
+        "rms": 0.006227476056665182,
+        "kl": 5.548346052819397e-06,
+        "top1_equal": true,
+        "reference_margin": 4.578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 16,
+        "max_abs": 0.015625,
+        "rms": 0.002850172808393836,
+        "kl": 8.468214218737558e-08,
+        "top1_equal": true,
+        "reference_margin": 6.46875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 5,
+        "max_abs": 0.015625,
+        "rms": 0.003598520066589117,
+        "kl": 7.83384166425094e-06,
+        "top1_equal": true,
+        "reference_margin": 0.84375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 20,
+        "max_abs": 0.03125,
+        "rms": 0.0074800653383135796,
+        "kl": 1.1805838973089067e-08,
+        "top1_equal": true,
+        "reference_margin": 8.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 20,
+        "max_abs": 0.0234375,
+        "rms": 0.007556385826319456,
+        "kl": -2.1370397007558495e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 18,
+        "max_abs": 0.01953125,
+        "rms": 0.004103527404367924,
+        "kl": 4.7667677449680923e-07,
+        "top1_equal": true,
+        "reference_margin": 9.25
+      },
+      {
+        "id": "C-17-00004",
+        "position": 17,
+        "max_abs": 0.015625,
+        "rms": 0.0032391520217061043,
+        "kl": -3.3391006581950933e-07,
+        "top1_equal": true,
+        "reference_margin": 6.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 6,
+        "max_abs": 0.015625,
+        "rms": 0.003437347011640668,
+        "kl": 3.683321119751781e-05,
+        "top1_equal": true,
+        "reference_margin": 1.65625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 21,
+        "max_abs": 0.03125,
+        "rms": 0.005346238147467375,
+        "kl": 1.6001868061721325e-05,
+        "top1_equal": true,
+        "reference_margin": 1.71875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 21,
+        "max_abs": 0.0234375,
+        "rms": 0.008077397011220455,
+        "kl": -1.02107605925994e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 19,
+        "max_abs": 0.015625,
+        "rms": 0.003683509537950158,
+        "kl": 1.0095961897604866e-06,
+        "top1_equal": true,
+        "reference_margin": 4.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 18,
+        "max_abs": 0.015625,
+        "rms": 0.005484286230057478,
+        "kl": -2.4148357624653727e-07,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 7,
+        "max_abs": 0.015625,
+        "rms": 0.002911855699494481,
+        "kl": 1.807643275242299e-05,
+        "top1_equal": true,
+        "reference_margin": 2.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 22,
+        "max_abs": 0.03125,
+        "rms": 0.004979701247066259,
+        "kl": 2.792352097458206e-05,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 22,
+        "max_abs": 0.015625,
+        "rms": 0.0032809730619192123,
+        "kl": -1.3353636063584418e-07,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 20,
+        "max_abs": 0.0234375,
+        "rms": 0.007219075690954924,
+        "kl": 1.0248020032577188e-07,
+        "top1_equal": true,
+        "reference_margin": 9.6015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 19,
+        "max_abs": 0.015625,
+        "rms": 0.0033605676144361496,
+        "kl": 9.623663572710939e-07,
+        "top1_equal": true,
+        "reference_margin": 6.1875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 8,
+        "max_abs": 0.01953125,
+        "rms": 0.005419144406914711,
+        "kl": 8.907183655537665e-06,
+        "top1_equal": true,
+        "reference_margin": 1.984375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 23,
+        "max_abs": 0.01953125,
+        "rms": 0.003941243980079889,
+        "kl": 2.488802965672221e-05,
+        "top1_equal": true,
+        "reference_margin": 1.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 23,
+        "max_abs": 0.0234375,
+        "rms": 0.004010328091681004,
+        "kl": 7.206303962448146e-07,
+        "top1_equal": true,
+        "reference_margin": 7.265625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 21,
+        "max_abs": 0.015625,
+        "rms": 0.0034914175048470497,
+        "kl": -1.8430645809530688e-07,
+        "top1_equal": true,
+        "reference_margin": 4.96875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 20,
+        "max_abs": 0.015625,
+        "rms": 0.003937268629670143,
+        "kl": 5.29158569406718e-06,
+        "top1_equal": true,
+        "reference_margin": 6.0703125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 9,
+        "max_abs": 0.015625,
+        "rms": 0.0028662444092333317,
+        "kl": 1.974315864572418e-06,
+        "top1_equal": true,
+        "reference_margin": 3.046875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 24,
+        "max_abs": 0.0263671875,
+        "rms": 0.007333632558584213,
+        "kl": 5.702893759007566e-05,
+        "top1_equal": true,
+        "reference_margin": 1.34375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 24,
+        "max_abs": 0.0234375,
+        "rms": 0.004227862693369389,
+        "kl": 2.029046299867332e-07,
+        "top1_equal": true,
+        "reference_margin": 7.28125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 22,
+        "max_abs": 0.021484375,
+        "rms": 0.004278756212443113,
+        "kl": -1.2100909430046158e-07,
+        "top1_equal": true,
+        "reference_margin": 9.9375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 21,
+        "max_abs": 0.0234375,
+        "rms": 0.006152017507702112,
+        "kl": -4.368339432403445e-07,
+        "top1_equal": true,
+        "reference_margin": 6.140625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 10,
+        "max_abs": 0.015625,
+        "rms": 0.003096988657489419,
+        "kl": 1.1832726158900186e-06,
+        "top1_equal": true,
+        "reference_margin": 3.0
+      },
+      {
+        "id": "C-17-00000",
+        "position": 25,
+        "max_abs": 0.03125,
+        "rms": 0.005652111954987049,
+        "kl": 3.00895389955258e-05,
+        "top1_equal": true,
+        "reference_margin": 0.765625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 25,
+        "max_abs": 0.0234375,
+        "rms": 0.006017810199409723,
+        "kl": 1.0711050890677143e-07,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 23,
+        "max_abs": 0.01953125,
+        "rms": 0.0033228329848498106,
+        "kl": -1.970539926787751e-07,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 22,
+        "max_abs": 0.015625,
+        "rms": 0.002828467870131135,
+        "kl": 2.0476363715715706e-06,
+        "top1_equal": true,
+        "reference_margin": 6.125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 11,
+        "max_abs": 0.01953125,
+        "rms": 0.0075248293578624725,
+        "kl": 2.7746064006350935e-06,
+        "top1_equal": true,
+        "reference_margin": 2.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 26,
+        "max_abs": 0.02734375,
+        "rms": 0.006143616512417793,
+        "kl": 1.2516873539425433e-05,
+        "top1_equal": true,
+        "reference_margin": 3.125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 26,
+        "max_abs": 0.0296630859375,
+        "rms": 0.008839989081025124,
+        "kl": 8.267234079539776e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 24,
+        "max_abs": 0.021484375,
+        "rms": 0.005140818655490875,
+        "kl": 1.0460404098466825e-07,
+        "top1_equal": true,
+        "reference_margin": 9.9140625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 23,
+        "max_abs": 0.015625,
+        "rms": 0.0030160313472151756,
+        "kl": 4.420260665938258e-06,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 12,
+        "max_abs": 0.015625,
+        "rms": 0.005439823027700186,
+        "kl": 3.1638464861316606e-06,
+        "top1_equal": true,
+        "reference_margin": 3.9375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 27,
+        "max_abs": 0.03125,
+        "rms": 0.004681149031966925,
+        "kl": 8.470674401905853e-06,
+        "top1_equal": true,
+        "reference_margin": 3.328125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 27,
+        "max_abs": 0.03125,
+        "rms": 0.006651736330240965,
+        "kl": 1.1764154805860016e-07,
+        "top1_equal": true,
+        "reference_margin": 7.515625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 25,
+        "max_abs": 0.015625,
+        "rms": 0.004195163492113352,
+        "kl": -6.637505123308074e-08,
+        "top1_equal": true,
+        "reference_margin": 5.65625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 24,
+        "max_abs": 0.015625,
+        "rms": 0.005361279938369989,
+        "kl": 6.864584065624513e-07,
+        "top1_equal": true,
+        "reference_margin": 6.828125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 13,
+        "max_abs": 0.0234375,
+        "rms": 0.004810141399502754,
+        "kl": 1.0621697583701462e-06,
+        "top1_equal": true,
+        "reference_margin": 4.875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 28,
+        "max_abs": 0.021484375,
+        "rms": 0.004899289458990097,
+        "kl": 4.7053557494791676e-08,
+        "top1_equal": true,
+        "reference_margin": 14.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 28,
+        "max_abs": 0.03125,
+        "rms": 0.012641028501093388,
+        "kl": 4.623575478035491e-08,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 26,
+        "max_abs": 0.0234375,
+        "rms": 0.005045916885137558,
+        "kl": 5.4538226379463595e-08,
+        "top1_equal": true,
+        "reference_margin": 10.3125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 25,
+        "max_abs": 0.015625,
+        "rms": 0.0038122208788990974,
+        "kl": -1.7502225091448054e-07,
+        "top1_equal": true,
+        "reference_margin": 6.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 14,
+        "max_abs": 0.015625,
+        "rms": 0.003285221755504608,
+        "kl": 4.762725438922644e-06,
+        "top1_equal": true,
+        "reference_margin": 4.203125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 29,
+        "max_abs": 0.02734375,
+        "rms": 0.006477889604866505,
+        "kl": 2.836964267771691e-05,
+        "top1_equal": true,
+        "reference_margin": 0.046875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 29,
+        "max_abs": 0.0234375,
+        "rms": 0.0041174814105033875,
+        "kl": 5.521273465092236e-07,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 27,
+        "max_abs": 0.01953125,
+        "rms": 0.005444654729217291,
+        "kl": 5.727533789467998e-07,
+        "top1_equal": true,
+        "reference_margin": 5.8125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 26,
+        "max_abs": 0.015625,
+        "rms": 0.005678126122802496,
+        "kl": 5.846313797519542e-07,
+        "top1_equal": true,
+        "reference_margin": 6.828125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 15,
+        "max_abs": 0.015625,
+        "rms": 0.0034616098273545504,
+        "kl": -5.466436050483026e-07,
+        "top1_equal": true,
+        "reference_margin": 4.875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 30,
+        "max_abs": 0.03125,
+        "rms": 0.0075827999971807,
+        "kl": 1.1523872700536231e-07,
+        "top1_equal": true,
+        "reference_margin": 8.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 30,
+        "max_abs": 0.0234375,
+        "rms": 0.004212987143546343,
+        "kl": -4.0645181798026897e-07,
+        "top1_equal": true,
+        "reference_margin": 7.59375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 28,
+        "max_abs": 0.04296875,
+        "rms": 0.009184197522699833,
+        "kl": -2.9544480639742687e-08,
+        "top1_equal": true,
+        "reference_margin": 10.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 27,
+        "max_abs": 0.015625,
+        "rms": 0.004145059268921614,
+        "kl": 6.471964297816157e-08,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 16,
+        "max_abs": 0.015625,
+        "rms": 0.0028727641329169273,
+        "kl": -3.445029506110586e-08,
+        "top1_equal": true,
+        "reference_margin": 4.75
+      },
+      {
+        "id": "C-17-00000",
+        "position": 31,
+        "max_abs": 0.03125,
+        "rms": 0.009082295931875706,
+        "kl": 9.088075785257388e-06,
+        "top1_equal": true,
+        "reference_margin": 0.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 31,
+        "max_abs": 0.015625,
+        "rms": 0.003780500730499625,
+        "kl": 2.036070299027415e-07,
+        "top1_equal": true,
+        "reference_margin": 7.53125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 29,
+        "max_abs": 0.01611328125,
+        "rms": 0.004246726632118225,
+        "kl": 1.457097482671088e-07,
+        "top1_equal": true,
+        "reference_margin": 5.84375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 28,
+        "max_abs": 0.015625,
+        "rms": 0.0036052647046744823,
+        "kl": 6.813529580540489e-07,
+        "top1_equal": true,
+        "reference_margin": 7.03125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 17,
+        "max_abs": 0.01171875,
+        "rms": 0.002818108070641756,
+        "kl": -4.88966065859131e-07,
+        "top1_equal": true,
+        "reference_margin": 4.671875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 32,
+        "max_abs": 0.03125,
+        "rms": 0.005758552346378565,
+        "kl": -2.0673185829878094e-08,
+        "top1_equal": true,
+        "reference_margin": 13.78125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 32,
+        "max_abs": 0.0234375,
+        "rms": 0.00388555065728724,
+        "kl": 4.396133590489626e-08,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 30,
+        "max_abs": 0.01953125,
+        "rms": 0.004881628323346376,
+        "kl": 2.0213852280903666e-07,
+        "top1_equal": true,
+        "reference_margin": 10.46875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 29,
+        "max_abs": 0.015625,
+        "rms": 0.0038596009835600853,
+        "kl": -3.4518143365858123e-07,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 18,
+        "max_abs": 0.015625,
+        "rms": 0.0026829412672668695,
+        "kl": 8.647181175547303e-07,
+        "top1_equal": true,
+        "reference_margin": 5.5
+      },
+      {
+        "id": "C-17-00000",
+        "position": 33,
+        "max_abs": 0.0390625,
+        "rms": 0.006193007808178663,
+        "kl": 2.8239207949809497e-06,
+        "top1_equal": true,
+        "reference_margin": 1.28125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 33,
+        "max_abs": 0.015625,
+        "rms": 0.0033723083324730396,
+        "kl": -6.688696885248646e-08,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 31,
+        "max_abs": 0.01953125,
+        "rms": 0.0047697448171675205,
+        "kl": -1.4098510803250974e-07,
+        "top1_equal": true,
+        "reference_margin": 5.875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 30,
+        "max_abs": 0.015625,
+        "rms": 0.002975806826725602,
+        "kl": 3.496795670798747e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 19,
+        "max_abs": 0.01171875,
+        "rms": 0.0025479786563664675,
+        "kl": -2.654512627486838e-07,
+        "top1_equal": true,
+        "reference_margin": 5.328125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 34,
+        "max_abs": 0.0361328125,
+        "rms": 0.0056533366441726685,
+        "kl": 5.601294105872512e-05,
+        "top1_equal": true,
+        "reference_margin": 0.0625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 34,
+        "max_abs": 0.03125,
+        "rms": 0.005809682887047529,
+        "kl": -1.5453517221430957e-07,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 32,
+        "max_abs": 0.06640625,
+        "rms": 0.012901799753308296,
+        "kl": 9.89397506145906e-08,
+        "top1_equal": true,
+        "reference_margin": 10.7265625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 31,
+        "max_abs": 0.015625,
+        "rms": 0.0031844081822782755,
+        "kl": -5.184961082704831e-07,
+        "top1_equal": true,
+        "reference_margin": 7.0625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 20,
+        "max_abs": 0.015625,
+        "rms": 0.0037730587646365166,
+        "kl": 1.765416527632624e-06,
+        "top1_equal": true,
+        "reference_margin": 4.015625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 35,
+        "max_abs": 0.03125,
+        "rms": 0.005501657724380493,
+        "kl": 4.290035633403022e-07,
+        "top1_equal": true,
+        "reference_margin": 3.21875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 35,
+        "max_abs": 0.0234375,
+        "rms": 0.005096053704619408,
+        "kl": 5.954203174951544e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 33,
+        "max_abs": 0.0166015625,
+        "rms": 0.0040718987584114075,
+        "kl": 2.988020924021839e-07,
+        "top1_equal": true,
+        "reference_margin": 6.046875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 32,
+        "max_abs": 0.015625,
+        "rms": 0.004751777276396751,
+        "kl": -6.260597729124129e-08,
+        "top1_equal": true,
+        "reference_margin": 6.953125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 21,
+        "max_abs": 0.015625,
+        "rms": 0.0036257184110581875,
+        "kl": 1.7751922314346302e-06,
+        "top1_equal": true,
+        "reference_margin": 5.265625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 36,
+        "max_abs": 0.03125,
+        "rms": 0.006842514965683222,
+        "kl": 3.755555007955991e-05,
+        "top1_equal": true,
+        "reference_margin": 1.078125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 36,
+        "max_abs": 0.01953125,
+        "rms": 0.003939800895750523,
+        "kl": 6.863960777536704e-08,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 34,
+        "max_abs": 0.0390625,
+        "rms": 0.008001666516065598,
+        "kl": -9.991981642087922e-08,
+        "top1_equal": true,
+        "reference_margin": 11.59375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 33,
+        "max_abs": 0.015625,
+        "rms": 0.003588811494410038,
+        "kl": -5.073791271570371e-07,
+        "top1_equal": true,
+        "reference_margin": 6.875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 22,
+        "max_abs": 0.015625,
+        "rms": 0.0037868977524340153,
+        "kl": 1.2933196558151394e-06,
+        "top1_equal": true,
+        "reference_margin": 5.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 37,
+        "max_abs": 0.0234375,
+        "rms": 0.005688879638910294,
+        "kl": 3.090562313445844e-05,
+        "top1_equal": true,
+        "reference_margin": 0.8125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 37,
+        "max_abs": 0.017578125,
+        "rms": 0.004062485881149769,
+        "kl": 9.750522167450981e-08,
+        "top1_equal": true,
+        "reference_margin": 7.609375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 35,
+        "max_abs": 0.015625,
+        "rms": 0.0030336242634803057,
+        "kl": -4.412521548147197e-08,
+        "top1_equal": true,
+        "reference_margin": 6.28125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 34,
+        "max_abs": 0.015625,
+        "rms": 0.0028997045010328293,
+        "kl": 3.923379381376435e-07,
+        "top1_equal": true,
+        "reference_margin": 6.9375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 23,
+        "max_abs": 0.01953125,
+        "rms": 0.004416693467646837,
+        "kl": 4.924913810100406e-07,
+        "top1_equal": true,
+        "reference_margin": 5.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 38,
+        "max_abs": 0.0234375,
+        "rms": 0.005346226971596479,
+        "kl": 2.4855113224475645e-05,
+        "top1_equal": true,
+        "reference_margin": 0.671875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 38,
+        "max_abs": 0.0234375,
+        "rms": 0.004224668722599745,
+        "kl": 3.10596931285545e-07,
+        "top1_equal": true,
+        "reference_margin": 7.625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 36,
+        "max_abs": 0.04296875,
+        "rms": 0.009911864995956421,
+        "kl": -2.0744383988358095e-08,
+        "top1_equal": true,
+        "reference_margin": 12.5
+      },
+      {
+        "id": "C-17-00004",
+        "position": 35,
+        "max_abs": 0.015625,
+        "rms": 0.0030204534996300936,
+        "kl": 6.162716772450949e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 24,
+        "max_abs": 0.015625,
+        "rms": 0.004364072345197201,
+        "kl": 4.0519307731301524e-07,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 39,
+        "max_abs": 0.03125,
+        "rms": 0.0077308714389801025,
+        "kl": 3.872128218063153e-06,
+        "top1_equal": true,
+        "reference_margin": 1.875
+      },
+      {
+        "id": "C-17-00001",
+        "position": 39,
+        "max_abs": 0.0234375,
+        "rms": 0.004477973096072674,
+        "kl": 6.977520428108619e-08,
+        "top1_equal": true,
+        "reference_margin": 7.65625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 37,
+        "max_abs": 0.0185546875,
+        "rms": 0.0055483984760940075,
+        "kl": 1.3726261727242672e-07,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 36,
+        "max_abs": 0.015625,
+        "rms": 0.0042242505587637424,
+        "kl": 2.5220060706487857e-07,
+        "top1_equal": true,
+        "reference_margin": 7.09375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 25,
+        "max_abs": 0.0234375,
+        "rms": 0.00566442683339119,
+        "kl": 1.2356576917227358e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5
+      },
+      {
+        "id": "C-17-00000",
+        "position": 40,
+        "max_abs": 0.026611328125,
+        "rms": 0.005946897901594639,
+        "kl": 6.958908329579572e-07,
+        "top1_equal": true,
+        "reference_margin": 6.015625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 40,
+        "max_abs": 0.015625,
+        "rms": 0.0038822877686470747,
+        "kl": -3.799260070991295e-07,
+        "top1_equal": true,
+        "reference_margin": 7.546875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 38,
+        "max_abs": 0.03125,
+        "rms": 0.006351500283926725,
+        "kl": 1.315028157478082e-07,
+        "top1_equal": true,
+        "reference_margin": 11.65625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 37,
+        "max_abs": 0.015625,
+        "rms": 0.004360801540315151,
+        "kl": 3.7583413359243423e-07,
+        "top1_equal": true,
+        "reference_margin": 6.9375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 26,
+        "max_abs": 0.017578125,
+        "rms": 0.005692181643098593,
+        "kl": 1.490042450313922e-06,
+        "top1_equal": true,
+        "reference_margin": 5.953125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 41,
+        "max_abs": 0.03125,
+        "rms": 0.004957547876983881,
+        "kl": 1.2720025551971048e-05,
+        "top1_equal": true,
+        "reference_margin": 0.640625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 41,
+        "max_abs": 0.015625,
+        "rms": 0.003441059496253729,
+        "kl": 1.1309725778119173e-07,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 39,
+        "max_abs": 0.01953125,
+        "rms": 0.003815569682046771,
+        "kl": 3.544140838585008e-07,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 38,
+        "max_abs": 0.015625,
+        "rms": 0.003534940304234624,
+        "kl": -4.1380587845196715e-07,
+        "top1_equal": true,
+        "reference_margin": 6.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 27,
+        "max_abs": 0.015625,
+        "rms": 0.005185019224882126,
+        "kl": 6.194813977344893e-07,
+        "top1_equal": true,
+        "reference_margin": 6.25
+      },
+      {
+        "id": "C-17-00000",
+        "position": 42,
+        "max_abs": 0.03125,
+        "rms": 0.005270015448331833,
+        "kl": -4.003106823802227e-08,
+        "top1_equal": true,
+        "reference_margin": 10.140625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 42,
+        "max_abs": 0.0234375,
+        "rms": 0.005935869179666042,
+        "kl": -8.62708589011163e-08,
+        "top1_equal": true,
+        "reference_margin": 7.25
+      },
+      {
+        "id": "C-17-00002",
+        "position": 40,
+        "max_abs": 0.14453125,
+        "rms": 0.03631396219134331,
+        "kl": 1.507913225395896e-07,
+        "top1_equal": true,
+        "reference_margin": 11.6796875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 39,
+        "max_abs": 0.015625,
+        "rms": 0.0028858501464128494,
+        "kl": 1.187376255984418e-06,
+        "top1_equal": true,
+        "reference_margin": 6.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 28,
+        "max_abs": 0.015625,
+        "rms": 0.005787345115095377,
+        "kl": 1.240310666617006e-06,
+        "top1_equal": true,
+        "reference_margin": 6.375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 43,
+        "max_abs": 0.0234375,
+        "rms": 0.005045927129685879,
+        "kl": 2.1339221348171122e-05,
+        "top1_equal": true,
+        "reference_margin": 1.0
+      },
+      {
+        "id": "C-17-00001",
+        "position": 43,
+        "max_abs": 0.0234375,
+        "rms": 0.004276018589735031,
+        "kl": 1.1716047083609737e-06,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 41,
+        "max_abs": 0.02734375,
+        "rms": 0.006022194866091013,
+        "kl": 2.0352376850496512e-07,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 40,
+        "max_abs": 0.015625,
+        "rms": 0.006033727433532476,
+        "kl": 5.874026101082563e-07,
+        "top1_equal": true,
+        "reference_margin": 7.109375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 29,
+        "max_abs": 0.015625,
+        "rms": 0.003424005815759301,
+        "kl": 3.5896687222702894e-07,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 44,
+        "max_abs": 0.03125,
+        "rms": 0.0072520822286605835,
+        "kl": 2.235449392173905e-05,
+        "top1_equal": true,
+        "reference_margin": 0.890625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 44,
+        "max_abs": 0.05078125,
+        "rms": 0.012973679229617119,
+        "kl": 1.997723074964597e-06,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 42,
+        "max_abs": 0.109375,
+        "rms": 0.02947421185672283,
+        "kl": 3.269851163167914e-07,
+        "top1_equal": true,
+        "reference_margin": 11.7578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 41,
+        "max_abs": 0.02734375,
+        "rms": 0.011264783330261707,
+        "kl": 7.070784704410471e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 30,
+        "max_abs": 0.0234375,
+        "rms": 0.004474553745239973,
+        "kl": 1.2216696632094681e-06,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 45,
+        "max_abs": 0.03125,
+        "rms": 0.0057728891260921955,
+        "kl": 2.7591935577220283e-05,
+        "top1_equal": true,
+        "reference_margin": 0.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 45,
+        "max_abs": 0.03125,
+        "rms": 0.005572344642132521,
+        "kl": -4.289399839763064e-07,
+        "top1_equal": true,
+        "reference_margin": 7.359375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 43,
+        "max_abs": 0.03619384765625,
+        "rms": 0.0054898252710700035,
+        "kl": 1.247127983106111e-07,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 42,
+        "max_abs": 0.01953125,
+        "rms": 0.006054189056158066,
+        "kl": 3.7127801988390274e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 31,
+        "max_abs": 0.015625,
+        "rms": 0.00354859814979136,
+        "kl": 2.1515752450795844e-06,
+        "top1_equal": true,
+        "reference_margin": 6.609375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 46,
+        "max_abs": 0.0322265625,
+        "rms": 0.011898870579898357,
+        "kl": 3.9288599509745836e-05,
+        "top1_equal": true,
+        "reference_margin": 0.53125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 46,
+        "max_abs": 0.0234375,
+        "rms": 0.006798242684453726,
+        "kl": 7.252717750816373e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 44,
+        "max_abs": 0.2421875,
+        "rms": 0.055228158831596375,
+        "kl": -8.710146204293778e-08,
+        "top1_equal": true,
+        "reference_margin": 13.1640625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 43,
+        "max_abs": 0.015625,
+        "rms": 0.004353946540504694,
+        "kl": -5.48604475625325e-07,
+        "top1_equal": true,
+        "reference_margin": 7.171875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 32,
+        "max_abs": 0.015625,
+        "rms": 0.0034299397375434637,
+        "kl": 3.8944176594668534e-07,
+        "top1_equal": true,
+        "reference_margin": 6.515625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 47,
+        "max_abs": 0.025390625,
+        "rms": 0.004562205635011196,
+        "kl": 3.7231318856356665e-05,
+        "top1_equal": true,
+        "reference_margin": 1.75
+      },
+      {
+        "id": "C-17-00001",
+        "position": 47,
+        "max_abs": 0.0234375,
+        "rms": 0.005063218530267477,
+        "kl": 1.7033210042427527e-07,
+        "top1_equal": true,
+        "reference_margin": 7.34375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 45,
+        "max_abs": 0.03125,
+        "rms": 0.005122358910739422,
+        "kl": 7.391163592274097e-08,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 44,
+        "max_abs": 0.015625,
+        "rms": 0.004721336532384157,
+        "kl": -1.7650768313615117e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 33,
+        "max_abs": 0.01953125,
+        "rms": 0.003169435076415539,
+        "kl": -8.315578270412516e-08,
+        "top1_equal": true,
+        "reference_margin": 6.34375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 48,
+        "max_abs": 0.046875,
+        "rms": 0.00725040165707469,
+        "kl": 6.691939891112497e-09,
+        "top1_equal": true,
+        "reference_margin": 10.125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 48,
+        "max_abs": 0.02734375,
+        "rms": 0.009844840504229069,
+        "kl": 6.325831236608792e-07,
+        "top1_equal": true,
+        "reference_margin": 7.15625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 46,
+        "max_abs": 0.11328125,
+        "rms": 0.025193557143211365,
+        "kl": -7.911082633427213e-08,
+        "top1_equal": true,
+        "reference_margin": 13.3671875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 45,
+        "max_abs": 0.015625,
+        "rms": 0.005330048501491547,
+        "kl": 6.860632311145309e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 34,
+        "max_abs": 0.015625,
+        "rms": 0.0028423655312508345,
+        "kl": -7.552984016001574e-07,
+        "top1_equal": true,
+        "reference_margin": 6.25
+      },
+      {
+        "id": "C-17-00000",
+        "position": 49,
+        "max_abs": 0.02734375,
+        "rms": 0.007697862107306719,
+        "kl": 1.7582113287062384e-05,
+        "top1_equal": true,
+        "reference_margin": 1.5
+      },
+      {
+        "id": "C-17-00001",
+        "position": 49,
+        "max_abs": 0.0234375,
+        "rms": 0.004575708881020546,
+        "kl": -1.8336095308768563e-07,
+        "top1_equal": true,
+        "reference_margin": 6.984375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 47,
+        "max_abs": 0.017578125,
+        "rms": 0.00400649756193161,
+        "kl": -3.596931463789588e-08,
+        "top1_equal": true,
+        "reference_margin": 6.90625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 46,
+        "max_abs": 0.015625,
+        "rms": 0.002598887775093317,
+        "kl": 4.4002433696732624e-07,
+        "top1_equal": true,
+        "reference_margin": 7.40625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 35,
+        "max_abs": 0.015625,
+        "rms": 0.004935854580253363,
+        "kl": -3.24298525811173e-08,
+        "top1_equal": true,
+        "reference_margin": 6.203125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 50,
+        "max_abs": 0.033203125,
+        "rms": 0.005671245511621237,
+        "kl": 5.839769528392935e-06,
+        "top1_equal": true,
+        "reference_margin": 3.40625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 50,
+        "max_abs": 0.03125,
+        "rms": 0.007693124003708363,
+        "kl": 4.95426661473175e-07,
+        "top1_equal": true,
+        "reference_margin": 7.046875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 48,
+        "max_abs": 0.029296875,
+        "rms": 0.007229354698210955,
+        "kl": -8.781903915178191e-08,
+        "top1_equal": true,
+        "reference_margin": 12.453125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 47,
+        "max_abs": 0.015625,
+        "rms": 0.004006842616945505,
+        "kl": -2.2580570657737553e-07,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 36,
+        "max_abs": 0.015625,
+        "rms": 0.0038494335021823645,
+        "kl": 1.0992825991706923e-06,
+        "top1_equal": true,
+        "reference_margin": 6.484375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 51,
+        "max_abs": 0.02734375,
+        "rms": 0.005552351009100676,
+        "kl": 2.8720505724777468e-05,
+        "top1_equal": true,
+        "reference_margin": 0.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 51,
+        "max_abs": 0.03369140625,
+        "rms": 0.01269938237965107,
+        "kl": 4.101370905118529e-07,
+        "top1_equal": true,
+        "reference_margin": 7.203125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 49,
+        "max_abs": 0.0234375,
+        "rms": 0.004345757886767387,
+        "kl": -1.0109664572155452e-07,
+        "top1_equal": true,
+        "reference_margin": 7.15625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 48,
+        "max_abs": 0.015625,
+        "rms": 0.004888692870736122,
+        "kl": -3.623309794420493e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00015",
+        "position": 37,
+        "max_abs": 0.015625,
+        "rms": 0.0032592075876891613,
+        "kl": 4.151524990447797e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 52,
+        "max_abs": 0.03125,
+        "rms": 0.007169055752456188,
+        "kl": -6.925123585688198e-08,
+        "top1_equal": true,
+        "reference_margin": 11.375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 52,
+        "max_abs": 0.01953125,
+        "rms": 0.004237747751176357,
+        "kl": -2.7019439130526735e-08,
+        "top1_equal": true,
+        "reference_margin": 7.359375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 50,
+        "max_abs": 0.025390625,
+        "rms": 0.006498377304524183,
+        "kl": 6.307094935209534e-08,
+        "top1_equal": true,
+        "reference_margin": 11.625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 49,
+        "max_abs": 0.015625,
+        "rms": 0.002747703343629837,
+        "kl": 1.8050468497676775e-06,
+        "top1_equal": true,
+        "reference_margin": 7.625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 38,
+        "max_abs": 0.015625,
+        "rms": 0.004806079436093569,
+        "kl": -7.878679753048345e-08,
+        "top1_equal": true,
+        "reference_margin": 6.640625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 53,
+        "max_abs": 0.025390625,
+        "rms": 0.0059662144631147385,
+        "kl": 3.019858013431076e-05,
+        "top1_equal": true,
+        "reference_margin": 0.59375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 53,
+        "max_abs": 0.017578125,
+        "rms": 0.0036182922776788473,
+        "kl": 3.395753083168529e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 51,
+        "max_abs": 0.0234375,
+        "rms": 0.004220456350594759,
+        "kl": -4.2958092194567143e-08,
+        "top1_equal": true,
+        "reference_margin": 7.484375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 50,
+        "max_abs": 0.015625,
+        "rms": 0.005181768909096718,
+        "kl": -3.461832420725841e-07,
+        "top1_equal": true,
+        "reference_margin": 7.734375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 39,
+        "max_abs": 0.01953125,
+        "rms": 0.003228898858651519,
+        "kl": 1.9574790144361032e-07,
+        "top1_equal": true,
+        "reference_margin": 6.671875
+      },
+      {
+        "id": "C-17-00000",
+        "position": 54,
+        "max_abs": 0.03125,
+        "rms": 0.00624194648116827,
+        "kl": 6.563680472027045e-06,
+        "top1_equal": true,
+        "reference_margin": 0.390625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 54,
+        "max_abs": 0.0234375,
+        "rms": 0.004702142905443907,
+        "kl": 1.0625740287650842e-07,
+        "top1_equal": true,
+        "reference_margin": 7.46875
+      },
+      {
+        "id": "C-17-00002",
+        "position": 52,
+        "max_abs": 0.06640625,
+        "rms": 0.016690118238329887,
+        "kl": -5.615841303097113e-08,
+        "top1_equal": true,
+        "reference_margin": 12.328125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 51,
+        "max_abs": 0.015625,
+        "rms": 0.0036689802072942257,
+        "kl": 5.39609459337953e-08,
+        "top1_equal": true,
+        "reference_margin": 7.6875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 40,
+        "max_abs": 0.015625,
+        "rms": 0.004828320350497961,
+        "kl": 6.478157956735231e-07,
+        "top1_equal": true,
+        "reference_margin": 6.65625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 55,
+        "max_abs": 0.0263671875,
+        "rms": 0.008399990387260914,
+        "kl": 3.2793861919344636e-06,
+        "top1_equal": true,
+        "reference_margin": 2.203125
+      },
+      {
+        "id": "C-17-00001",
+        "position": 55,
+        "max_abs": 0.0234375,
+        "rms": 0.0044416869059205055,
+        "kl": 1.0364942681917455e-08,
+        "top1_equal": true,
+        "reference_margin": 7.34375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 53,
+        "max_abs": 0.01953125,
+        "rms": 0.004291987046599388,
+        "kl": 1.4847981333332427e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5625
+      },
+      {
+        "id": "C-17-00004",
+        "position": 52,
+        "max_abs": 0.015625,
+        "rms": 0.003087701043114066,
+        "kl": -2.7103908450953895e-08,
+        "top1_equal": true,
+        "reference_margin": 7.71875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 41,
+        "max_abs": 0.0234375,
+        "rms": 0.005017847754061222,
+        "kl": 3.950513018935453e-07,
+        "top1_equal": true,
+        "reference_margin": 6.578125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 56,
+        "max_abs": 0.03125,
+        "rms": 0.00558849610388279,
+        "kl": 1.044829059537733e-05,
+        "top1_equal": true,
+        "reference_margin": 2.640625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 56,
+        "max_abs": 0.01953125,
+        "rms": 0.004819578491151333,
+        "kl": -1.0093704361224809e-07,
+        "top1_equal": true,
+        "reference_margin": 7.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 54,
+        "max_abs": 0.07421875,
+        "rms": 0.01912519708275795,
+        "kl": 8.667484507896006e-10,
+        "top1_equal": true,
+        "reference_margin": 12.046875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 53,
+        "max_abs": 0.01953125,
+        "rms": 0.008167335763573647,
+        "kl": -4.910798452328891e-07,
+        "top1_equal": true,
+        "reference_margin": 7.78125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 42,
+        "max_abs": 0.015625,
+        "rms": 0.004403621889650822,
+        "kl": 3.771383489947766e-07,
+        "top1_equal": true,
+        "reference_margin": 6.5625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 57,
+        "max_abs": 0.03125,
+        "rms": 0.006399957463145256,
+        "kl": 6.0370302890078165e-06,
+        "top1_equal": true,
+        "reference_margin": 3.109375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 57,
+        "max_abs": 0.0234375,
+        "rms": 0.004939499776810408,
+        "kl": 7.461167115252465e-07,
+        "top1_equal": true,
+        "reference_margin": 7.375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 55,
+        "max_abs": 0.0234375,
+        "rms": 0.006432481575757265,
+        "kl": 1.2564527196445852e-10,
+        "top1_equal": true,
+        "reference_margin": 7.578125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 54,
+        "max_abs": 0.01171875,
+        "rms": 0.003161746310070157,
+        "kl": -1.9422600416874047e-08,
+        "top1_equal": true,
+        "reference_margin": 7.890625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 43,
+        "max_abs": 0.015625,
+        "rms": 0.003225895809009671,
+        "kl": 3.1566031566399033e-07,
+        "top1_equal": true,
+        "reference_margin": 6.625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 58,
+        "max_abs": 0.03125,
+        "rms": 0.005534730851650238,
+        "kl": 5.319192041497445e-06,
+        "top1_equal": true,
+        "reference_margin": 2.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 58,
+        "max_abs": 0.01953125,
+        "rms": 0.006280028261244297,
+        "kl": -5.939632501394954e-07,
+        "top1_equal": true,
+        "reference_margin": 7.484375
+      },
+      {
+        "id": "C-17-00002",
+        "position": 56,
+        "max_abs": 0.03125,
+        "rms": 0.0062645734287798405,
+        "kl": 2.0921385157635086e-07,
+        "top1_equal": true,
+        "reference_margin": 11.9296875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 55,
+        "max_abs": 0.015625,
+        "rms": 0.003931534476578236,
+        "kl": 1.5083969628904015e-09,
+        "top1_equal": true,
+        "reference_margin": 7.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 44,
+        "max_abs": 0.015625,
+        "rms": 0.006001596804708242,
+        "kl": -6.11844370723702e-08,
+        "top1_equal": true,
+        "reference_margin": 6.703125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 59,
+        "max_abs": 0.03125,
+        "rms": 0.005468463525176048,
+        "kl": 2.913499702117406e-05,
+        "top1_equal": true,
+        "reference_margin": 2.09375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 59,
+        "max_abs": 0.0234375,
+        "rms": 0.004972105845808983,
+        "kl": -3.859565822494915e-08,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 57,
+        "max_abs": 0.01953125,
+        "rms": 0.004753533750772476,
+        "kl": -1.026023994654679e-07,
+        "top1_equal": true,
+        "reference_margin": 7.546875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 56,
+        "max_abs": 0.015625,
+        "rms": 0.004794602748006582,
+        "kl": 4.694140898209298e-07,
+        "top1_equal": true,
+        "reference_margin": 7.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 45,
+        "max_abs": 0.015625,
+        "rms": 0.002634031232446432,
+        "kl": -6.571469839400379e-07,
+        "top1_equal": true,
+        "reference_margin": 6.734375
+      },
+      {
+        "id": "C-17-00000",
+        "position": 60,
+        "max_abs": 0.0390625,
+        "rms": 0.007492696400731802,
+        "kl": 1.4833239220024552e-05,
+        "top1_equal": true,
+        "reference_margin": 1.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 60,
+        "max_abs": 0.02197265625,
+        "rms": 0.005623313598334789,
+        "kl": 1.921578700603277e-07,
+        "top1_equal": true,
+        "reference_margin": 7.5
+      },
+      {
+        "id": "C-17-00002",
+        "position": 58,
+        "max_abs": 0.05859375,
+        "rms": 0.011976251378655434,
+        "kl": -4.241356776901739e-08,
+        "top1_equal": true,
+        "reference_margin": 13.109375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 57,
+        "max_abs": 0.015625,
+        "rms": 0.004575538448989391,
+        "kl": -9.632117325963918e-08,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 46,
+        "max_abs": 0.015625,
+        "rms": 0.0036584173794835806,
+        "kl": 1.8599394024931826e-08,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.004895194433629513,
+        "kl": 5.0189141802547965e-06,
+        "top1_equal": true,
+        "reference_margin": 3.15625
+      },
+      {
+        "id": "C-17-00001",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.003921407274901867,
+        "kl": -3.18528918796801e-08,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 59,
+        "max_abs": 0.0234375,
+        "rms": 0.0060329376719892025,
+        "kl": 4.2971329605734354e-08,
+        "top1_equal": true,
+        "reference_margin": 7.734375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 58,
+        "max_abs": 0.009765625,
+        "rms": 0.0026400049682706594,
+        "kl": 7.596952400490409e-09,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 47,
+        "max_abs": 0.01171875,
+        "rms": 0.0026226206682622433,
+        "kl": 2.1358218305067567e-07,
+        "top1_equal": true,
+        "reference_margin": 6.78125
+      },
+      {
+        "id": "C-17-00000",
+        "position": 62,
+        "max_abs": 0.03125,
+        "rms": 0.005764242261648178,
+        "kl": 1.8234861272503622e-05,
+        "top1_equal": true,
+        "reference_margin": 2.484375
+      },
+      {
+        "id": "C-17-00001",
+        "position": 62,
+        "max_abs": 0.01953125,
+        "rms": 0.004208623431622982,
+        "kl": 2.029035215400654e-07,
+        "top1_equal": true,
+        "reference_margin": 7.328125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 60,
+        "max_abs": 0.0859375,
+        "rms": 0.023188309744000435,
+        "kl": 1.3375196772358322e-07,
+        "top1_equal": true,
+        "reference_margin": 12.171875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 59,
+        "max_abs": 0.015625,
+        "rms": 0.0026403898373246193,
+        "kl": -1.839561036831583e-07,
+        "top1_equal": true,
+        "reference_margin": 7.984375
+      },
+      {
+        "id": "C-17-00015",
+        "position": 48,
+        "max_abs": 0.015625,
+        "rms": 0.0033186012879014015,
+        "kl": -3.967916768488067e-07,
+        "top1_equal": true,
+        "reference_margin": 6.890625
+      },
+      {
+        "id": "C-17-00000",
+        "position": 63,
+        "max_abs": 0.03125,
+        "rms": 0.005368292331695557,
+        "kl": 1.9670864276122302e-05,
+        "top1_equal": true,
+        "reference_margin": 0.0
+      },
+      {
+        "id": "C-17-00001",
+        "position": 63,
+        "max_abs": 0.01953125,
+        "rms": 0.004155194386839867,
+        "kl": 8.842126817398821e-07,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 61,
+        "max_abs": 0.0234375,
+        "rms": 0.005620365031063557,
+        "kl": -2.615143301909484e-08,
+        "top1_equal": true,
+        "reference_margin": 8.125
+      },
+      {
+        "id": "C-17-00004",
+        "position": 60,
+        "max_abs": 0.015625,
+        "rms": 0.0038635404780507088,
+        "kl": -7.345647645706777e-08,
+        "top1_equal": true,
+        "reference_margin": 7.96875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 49,
+        "max_abs": 0.015625,
+        "rms": 0.0032191018108278513,
+        "kl": -5.7069996728387196e-08,
+        "top1_equal": true,
+        "reference_margin": 7.015625
+      },
+      {
+        "id": "C-17-00002",
+        "position": 62,
+        "max_abs": 0.03125,
+        "rms": 0.010776485316455364,
+        "kl": -1.7477285041422874e-07,
+        "top1_equal": true,
+        "reference_margin": 12.109375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 61,
+        "max_abs": 0.015625,
+        "rms": 0.0056603290140628815,
+        "kl": -2.749090981524205e-07,
+        "top1_equal": true,
+        "reference_margin": 7.90625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 50,
+        "max_abs": 0.015625,
+        "rms": 0.003808836918324232,
+        "kl": 4.078576694155345e-07,
+        "top1_equal": true,
+        "reference_margin": 7.125
+      },
+      {
+        "id": "C-17-00002",
+        "position": 63,
+        "max_abs": 0.015625,
+        "rms": 0.004177482333034277,
+        "kl": 1.1754789142059963e-08,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00004",
+        "position": 62,
+        "max_abs": 0.015625,
+        "rms": 0.00371460965834558,
+        "kl": -2.911559704443789e-08,
+        "top1_equal": true,
+        "reference_margin": 7.890625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 51,
+        "max_abs": 0.01953125,
+        "rms": 0.006046893075108528,
+        "kl": 5.047654667578172e-07,
+        "top1_equal": true,
+        "reference_margin": 7.09375
+      },
+      {
+        "id": "C-17-00004",
+        "position": 63,
+        "max_abs": 0.01171875,
+        "rms": 0.003461776999756694,
+        "kl": -2.203312874371477e-07,
+        "top1_equal": true,
+        "reference_margin": 7.921875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 52,
+        "max_abs": 0.015625,
+        "rms": 0.003973029088228941,
+        "kl": -6.201763653734815e-07,
+        "top1_equal": true,
+        "reference_margin": 7.078125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 53,
+        "max_abs": 0.015625,
+        "rms": 0.003377515822649002,
+        "kl": 1.387317752232775e-06,
+        "top1_equal": true,
+        "reference_margin": 7.140625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 54,
+        "max_abs": 0.015625,
+        "rms": 0.004175114911049604,
+        "kl": 1.3382700672082137e-06,
+        "top1_equal": true,
+        "reference_margin": 7.25
+      },
+      {
+        "id": "C-17-00015",
+        "position": 55,
+        "max_abs": 0.015625,
+        "rms": 0.006374725606292486,
+        "kl": 7.893033853179077e-07,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 56,
+        "max_abs": 0.015625,
+        "rms": 0.005189301911741495,
+        "kl": 5.803258318337612e-09,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 57,
+        "max_abs": 0.015625,
+        "rms": 0.004237025044858456,
+        "kl": -5.987669737805845e-08,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 58,
+        "max_abs": 0.015625,
+        "rms": 0.0036772796884179115,
+        "kl": 1.969910954358056e-06,
+        "top1_equal": true,
+        "reference_margin": 7.421875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 59,
+        "max_abs": 0.015625,
+        "rms": 0.0039421734400093555,
+        "kl": -4.4196031012688763e-07,
+        "top1_equal": true,
+        "reference_margin": 7.453125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 60,
+        "max_abs": 0.015625,
+        "rms": 0.004798338748514652,
+        "kl": 2.7032228899770416e-08,
+        "top1_equal": true,
+        "reference_margin": 7.390625
+      },
+      {
+        "id": "C-17-00015",
+        "position": 61,
+        "max_abs": 0.01953125,
+        "rms": 0.007043090648949146,
+        "kl": -4.556154635793064e-07,
+        "top1_equal": true,
+        "reference_margin": 7.3125
+      },
+      {
+        "id": "C-17-00015",
+        "position": 62,
+        "max_abs": 0.015625,
+        "rms": 0.004163455683737993,
+        "kl": 7.324115358642302e-07,
+        "top1_equal": true,
+        "reference_margin": 7.296875
+      },
+      {
+        "id": "C-17-00015",
+        "position": 63,
+        "max_abs": 0.015625,
+        "rms": 0.0030662352219223976,
+        "kl": 3.805341748375213e-07,
+        "top1_equal": true,
+        "reference_margin": 7.28125
+      }
+    ],
+    "passed": false
+  }
+}
